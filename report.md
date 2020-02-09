@@ -30,41 +30,63 @@ Test optimization
 
 ## Scope
 
-Building sector -  - target most common?
-Commercial
-Residential
+Building sector - target most common?
+* Commercial
+* Residential
+
 Building type - target most common (office)?
-All or single?
+* All or single?
+
 Climate zone - most common, 3-4?
-All or single?
+* All or single?
+
 Scale of simulations
-Single sector, building type, and climate zone
-Large-scale analysis?
+* Single sector, building type, and climate zone
+* Large-scale analysis?
+
 Existing research
-Lots going on at national labs, e.g. NREL
-Avoid overlap and target gaps
+* Lots going on at national labs, e.g. NREL
+* Avoid overlap and target gaps
+
 Measure categories
-Organize by design disciplines: Architectural, Electrical, Mechanical, Plumbing
+* Organize by design disciplines: Architectural, Electrical, Mechanical, Plumbing
+
 Metrics
-$/kW PV vs % savings
-$/kW PV vs $/kW savings (objective function, max - min)
-Flatten profile
-LCC (utility cost) vs % savings - EE, ZNE (traditional BEOpt cost function)
-Energy savings cost function
-Three cost functions to identify best gaps
-X-axis EE, y-axis cost function
-SA of cost?
+* $/kW PV vs % savings
+* $/kW PV vs $/kW savings (objective function, max - min)
+* Flatten profile
+* LCC (utility cost) vs % savings - EE, ZNE (traditional BEOpt cost function)
+* Energy savings cost function
+* Three cost functions to identify best gaps
+* X-axis EE, y-axis cost function
+* SA of cost?
+
 Perspective
-Building owner - utility cost (demand savings)
-Energy Efficiency vs. Renewable Energy investment
-More data
-Electric utility - load shape (peak demand reduction)
-Energy Efficiency vs. Renewable Energy investment
-Both?
-Related to cost functions
+* Building owner - utility cost (demand savings)
+* Energy Efficiency vs. Renewable Energy investment
+  * More data
+* Electric utility - load shape (peak demand reduction)
+* Energy Efficiency vs. Renewable Energy investment
+  * Both?
+* Related to cost functions
 
 ## Format
 
+Renewable and Sustainable Energy Reviews
+
+https://www.elsevier.com/journals/renewable-and-sustainable-energy-reviews/1364-0321/guide-for-authors
+
+LaTeX
+
+* Abstract
+* Introduction
+* Material and methods
+* Theory/calculation
+* Results
+* Discussion
+* Conclusions
+* Data availability
+* Appendices
 
 
 ## Objectives
@@ -89,13 +111,19 @@ SEIA?
 
 DOE, ACEEE, RMI publications
 CU Library - journal articles, look for example of “review paper”
-Renewable and Sustainable Energy Reviews
 ASME Conference in Westminster in June, March 1st deadline for abstract
 https://event.asme.org/ES 
 https://www.aei-conference.org/
 https://github.com/NREL/OpenStudio-BuildStock 
 https://github.com/trynthink/scout 
 https://blog.kdheepak.com/writing-papers-with-markdown.html 
+
+Journals
+* Applied Energy
+* Energy
+* Energy & Buildings
+* Energy & Environment
+* Renewable and Sustainable Energy Reviews
 
 ---
 
@@ -104,3 +132,5 @@ Overview of Research Challenges and Gaps
 December2019
 
 https://www1.eere.energy.gov/buildings/pdfs/75470.pdf 
+
+
