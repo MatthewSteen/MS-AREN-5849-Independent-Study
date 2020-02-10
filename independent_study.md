@@ -24,11 +24,13 @@ Use [OpenStudio Standards](https://github.com/NREL/openstudio-standards) to gene
 
 * [U.S. Department of Energy Commercial Reference Building Models of the National Building Stock](https://www.nrel.gov/docs/fy11osti/46861.pdf)
 
+  * Weighting factors (new construction only) indicate that Small Office is the most common building type across all climate zones. 
+
 Building Types (use most common)
 
 * SecondarySchool
 * PrimarySchool
-* SmallOffice
+* SmallOffice*
 * MediumOffice
 * LargeOffice
 * SmallHotel
@@ -56,7 +58,24 @@ Templates (use most common)
 
 Climate Zones
 
-* 16 total
+| Climate Zone | Representative City | Representative Building Type |
+| --- | --- | --- |
+| 1A | Miami, Florida | 
+| 2A | Houston, Texas | 
+| 2B | Phoenix, Arizona | 
+| 3A | Atlanta, Georgia | 
+| 3B-Coast | Los Angeles, California | 
+| 3B | Las Vegas, Nevada | 
+| 3C | San Francisco, California | 
+| 4A | Baltimore, Maryland | 
+| 4B | Albuquerque, New Mexico | 
+| 4C | Seattle, Washington | 
+| 5A | Chicago, Illinois | 
+| 5B | Boulder, Colorado | 
+| 6A | Minneapolis, Minnesota | 
+| 6B | Helena, Montana | 
+| 7 | Duluth, Minnesota | 
+| 8 | Fairbanks, Alaska | 
 
 # Results
 
