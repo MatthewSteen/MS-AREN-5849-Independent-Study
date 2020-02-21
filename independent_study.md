@@ -129,6 +129,13 @@ Renewable Energy Cost
 
 Categorize measures and technologies that are suitable for GEBs.
 
+* Bassed on design discipline
+  * Architectural
+  * Electrical
+  * Mechanical
+  * Plumbing
+* Based on literature review
+
 # Discussion
 
 TODO
