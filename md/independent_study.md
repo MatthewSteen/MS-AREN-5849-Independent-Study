@@ -64,6 +64,71 @@ First, GEBs reduce demand on the grid by using less energy through efficiency. S
 
 TODO
 
+## Technologies
+
+Technologies that are suitable for GEBs are organized below by design discipline. Alternatively, these could be organized based on commonalities (if any) in the literature review.
+
+### Architectural
+
+[Grid-interactive Efficient Buildings Technical Report Series: Windows and Opaque Envelope](https://www1.eere.energy.gov/buildings/pdfs/75387.pdf)
+
+Architectural technologies that are suitable for GEBs include systems that separate the outdoor environment from the conditioned indoor environment (collectively the building envelope). These systems can be divided into the opaque envelope (floors, roofs, walls) and windows, and further categorized as having static, dynamic, or both properties that provide grid services through demand-side management strategies. Architectural technologies affect cooling, heating, and lighting energy end uses by decreasing assembly thermal transmittance (U-factor), decreasing or increasing solar heat gain through windows, or by allowing or blocking visible light to interior spaces.  
+
+#### Static Systems
+
+Static building envelope systems do not have dynamic or time-varying properties relying instead on inherent high performance properties that manage heat transfer, thermal bridging, and air flow (infiltration) through the system assembly. These properties can be a result of a single system component that contributes to the assembly's overall performance, such as a layer of insulation with high thermal resistance (R-value), or the result of multiple system components, such as reduced thermal bridging and air flow. Because static envelope systems do not dynamic properties they are primarily an energy efficiency DSM strategy, although they can passively shift load by delaying peak cooling and heating loads compared to lower performing systems.   
+
+ADD EXAMPLES, CONSIDER INCLUDING RESILIENCY TERMS (PASSIVE SURVIVABILITY ETC)
+
+#### Dynamic Systems
+
+Window Systems
+
+* Dynamic Glazing
+* Automated Attachments
+* Photovoltaic Glazing
+
+Dynamic building envelope systems have properties that can be actively modified to decrease or increase their performance to achieve desired DSM strategies and grid services. Currently available dynamic envelope technologies include dynamic glazing and automated attachments. 
+
+Dynamic glazing technologies include electrochromic glazing and thermochromic glazing that change tint (solar heat gain coefficient, SHGC) allowing more or less solar radiation into the building. Electrochromic glazing has more than one tint state (SHGC) compared to non-dynamic glazing, that can be changed by applying electric voltage to an electrochromic layer. Thermochromic glazing passively responds to temperature to change its SHGC. 
+
+Automated attachments include exterior and interior devices that open or close to allow or block solar radiation into the building. Examples include interior devices such as blinds and shades, and exterior devices such as awnings or shutters. 
+
+Photovoltaic glazing generates electricity the same way that traditional photovoltaic modules do, but are semi-transparent or transparent allowing some portion of visible light to pass through. Thus, PV glazing acts as part of an electricity generating system and a window system.
+
+Opaque Systems
+
+* Tunable Thermal Conductivity Materials
+* Thermally Anisotropic Systems
+* Thermal Storage
+* Moisture Storage and Extraction
+* Variable Radiative Technologies
+* Building-Integrated Photovoltaics
+
+Tunable thermal conductivity materials have thermophysical properties that can be dynamically adjusted to produce a desired thermal performance. For example, during cooling periods these materials would have high thermal transmittance (low R-value) when the outdoor temperature is lower than the indoor temperature to precool the building effectively acting like night flushing without the need for mechanical ventilation. Conversely, in the heating season these materials would have low thermal transmittance (high R-value) to minimize heat loss to the outdoors.
+
+Thermally anisotropic systems include components and assemblies with areas of high and low thermal conductivity that allows heat to be routed through the envelope to a heat sink such as a plumbing loop.
+
+Thermal storage materials have variable heat capacity properties that allow them to release or store heat. They behave similarly to passive thermal mass, such as strategically adding materials with high heat capacity, but with less volume and weight. Phase change materials (PCMs) are a type of thermal storage material that passively charge and discharge. PCMs are currently available but are not widely used in buildings.
+
+Moisture storage and extraction...
+
+Variable radiative technologies include materials that can reject heat during the daytime or even in direct sun. Cool roofs are a well established strategy to reduce cooling loads in warm/hot climates that are not appropriate for colder climates because they do not decrease energy use. These strategies are currently passive, but if they could be dynamically controlled to change their radiative heat transfer properties they could provide additional grid services through expanded DSM functions.
+
+Building-integrated photovoltaics, although part of a building's electrical system, refer to PV integrated into the opaque portions of the envelope. For example, wall cladding or roof shingles. 
+
+### Electrical
+
+
+
+### Mechanical
+
+
+
+### Plumbing
+
+
+
 # Results
 
 Categorize measures and technologies that are suitable for GEBs.
