@@ -47,9 +47,9 @@ Demand response can be classified into two types, dispatchable and nondispatchab
 
 TODO
 
-# Grid-Interactive Efficient Buildings
+## Grid-Interactive Efficient Buildings
 
-## Characteristics
+### Characteristics
 
 The DOE defines a GEB as "an energy efficient building that uses smart technologies and on-site DERs to provide demand flexibility while co-optimizing for energy cost, grid services, and occupant needs and preferences, in a continuous and integrated way". DOE characterizes GEBs further as having four general characteristics.
 
@@ -60,7 +60,7 @@ The DOE defines a GEB as "an energy efficient building that uses smart technolog
 
 First, GEBs reduce demand on the grid by using less energy through efficiency. Second, they are connected allowing two-way communication with the grid by sending and receiving signals to respond to time-dependent needs. Third, GEBs are smart by using sensors and controls that allow the co-optimization of cost functions from the perspective of the building owner, occupants, and grid through the use of analytics. Finally, they are flexible allowing loads to be shaped dynamically. These characteristics are facilitated by capabilities at the component level and system level where individual components can monitor and send information about their status and receive control commands to shed, shift, or modulate loads from the building's control system.
 
-## Operational Strategies
+### Operational Strategies
 
 TODO
 
