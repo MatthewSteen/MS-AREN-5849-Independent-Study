@@ -4,13 +4,21 @@ https://www.elsevier.com/journals/renewable-and-sustainable-energy-reviews/1364-
 
 # 1. Introduction
 
-Electrification trend vs. other fuels
+Trend in sources of electricity generation, i.e. renewables increasing 
+
+Trend in building electrification vs. other fuels
 
 How the grid works - supply, demand
 
 How do GEBs fit in to recent trends, needs
 
+>TODO https://github.com/MatthewSteen/MS-CVEN-5849/pull/7#discussion_r389308168
+>You may also start with a brief background section to introduce the topic and possibly overview the history (at least in the US) for the EE, DSM, DR, and GEB over the year and the main drivers for these programs.
+
 # Methods and materials - Literature review
+
+>TODO https://github.com/MatthewSteen/MS-CVEN-5849/pull/7#discussion_r389307939
+>You may first list some relevant references related to GEB (or load flexbility), DSM, DR, and Grid services. It will be useful to also as part of the methods to provide a summary for the main takeaways and contributions of these references so you can start citing as you describe the various elements of GEBs.
 
 [Grid-interactive Efficient Buildings Technical Report Series: Overview of Research Challenges and Gaps](https://www1.eere.energy.gov/buildings/pdfs/75470.pdf)
 
@@ -76,7 +84,7 @@ Architectural technologies that are suitable for GEBs include systems that separ
 
 #### Static Systems
 
-Static building envelope systems do not have dynamic or time-varying properties relying instead on inherent high performance properties that manage heat transfer, thermal bridging, and air flow (infiltration) through the system assembly. These properties can be a result of a single system component that contributes to the assembly's overall performance, such as a layer of insulation with high thermal resistance (R-value), or the result of multiple system components, such as reduced thermal bridging and air flow. Because static envelope systems do not dynamic properties they are primarily an energy efficiency DSM strategy, although they can passively shift load by delaying peak cooling and heating loads compared to lower performing systems.   
+Static building envelope systems do not have dynamic or time-varying properties relying instead on inherent high performance properties that manage heat transfer, thermal bridging, and air flow (infiltration) through the system assembly. These properties can be a result of a single system component that contributes to the assembly's overall performance, such as a layer of insulation with high thermal resistance (R-value), or the result of multiple system components, such as reduced thermal bridging and air flow. Because static envelope systems do not dynamic properties they are primarily an energy efficiency DSM strategy, although they can passively shift load by delaying peak cooling and heating loads compared to lower performing systems. In some cases, a high performance envelope can be detrimental to energy use by trapping heat and increasing cooling load. 
 
 ADD EXAMPLES, CONSIDER INCLUDING RESILIENCY TERMS (PASSIVE SURVIVABILITY ETC)
 
