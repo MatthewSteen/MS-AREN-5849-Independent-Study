@@ -2,6 +2,16 @@
 
 https://www.elsevier.com/journals/renewable-and-sustainable-energy-reviews/1364-0321/guide-for-authors
 
+Title: A Review and Categorization of Grid-interactive Efficient Building Technologies
+
+The electricity grid in the United States continues to experience a rapid rate of change. On the supply side, its generation fuel mix is shifting away from coal and nuclear sources towards natural gas and renewable energy sources (EIA AEO 2020). At the same time, grid operators must balance an increasing supply of non-dispatchable and intermittently available sources such as wind and solar. On the demand side, an increasing share of demand is being met by distributed energy resources (DER) such as solar photovoltaics (PV) (EIA AEO 2020), which is also, in many cases, supplying energy to the grid through net metering. These changes are driven by in large part by retiring less efficient fossil fuel-based generation sources, low natural gas prices, policies supporting renewable energy, and continued decline in renewable energy costs (EIA AEO 2020). 
+
+At the same time, concerns about climate change have also begun to shift both supply-side and demand-side fuel sources away from fossil fuel-based sources to renewable energy sources. Utilities are committing to 100% renewable energy goals as municipalities adopt electrification policies for buildings in an effort to strategically electrify as the grid becomes decarbonized (source).
+
+Fundamentally, grid operators must balance electricity supply with demand. Operators must have enough generation capacity in reserve to meet periods of peak demand. To meet new demand, utilities must build new generation capacity, which is often a costly and long-term investment. To defer the construction of new generation capacity, utilities often implement programs to that reduce, shed, or shift load through demand-side management, energy efficiency, or demand response programs. 
+
+Buildings have the potential to offer grid services such as generation and delivery services through implementing demand-side management strategies by utilizing existing and new technologies. This presentation summarizes the current literature on the topic of grid-interactive efficient buildings (GEBs) that can provide grid services and categorizes measures and technologies that are suitable for GEBs according to the several criteria. These criteria include demand-side management strategies, potential to provide grid services, technology maturity, and ability to perform analysis in whole-building simulation software. 
+
 # 1. Introduction
 
 Trend in sources of electricity generation, i.e. renewables increasing 
