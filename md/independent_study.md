@@ -133,6 +133,30 @@ Building-integrated photovoltaics, although part of a building's electrical syst
 
 ### Electrical
 
+[Grid-interactive Efficient Buildings Technical Report Series: Lighting and Electronics](https://www1.eere.energy.gov/buildings/pdfs/75475.pdf)
+
+Electrical technologies that are suitable for GEBs include lighting systems, consumer electronics, and information technology (IT) equipment. 
+
+#### Lighting
+
+Currently, the use of lighting for grid services is low, with and estimated 4% of commercial buildings reporting demand responsive lighting in the 2012 CBECS (EIA 2012). Historically, lighting systems have not been used for demand response because they are not inherently capable of shifting their load and are generally considered a critical load in occupied spaces, i.e. for safety, productivity, and comfort so they cannot be completely turned off. The primary demand response strategy of dimming is restricted to a small range that will not compromise safety, productivity, and comfort of building occupants. Lighting is only valuable to the grid at the whole building level because the average power of a single lamp is small relative to other individual loads, therefore the commercial building sector is the most viable market for grid-responsive lighting systems. In addition to demand response, lighting systems can be used for demand-side management by reducing building peaks, which is typically accomplished by dimming to shed load. However, California's 2016 energy standard (Title 24) requires that all buildings greater than 10,000 ft2 must be capable of automatically reducing lighting power by 15% in response to a signal from the grid. 
+
+The following lighting technologies are suitable for GEBs according to the DOE (DOE-3 2019).
+
+1. Advanced Sensors and Controls
+2. Hybrid Daylight SSL Systems
+3. SSL Displays
+
+Advanced sensors and controls improve the ability of connected lighting systems to adjust their power-consuming features such as light levels and spectrum, sensors, or network interfaces through embedded control algorithms. These technologies would enable lighting systems to interact with the grid and other building-level sensors and controllers to reduce loads and provide the grid with contingency reserves and frequency regulation. The market for these technologies is expected to grow significantly in the commercial building sector, with one estimate predicting 35% penetration by 2035 (Penning et. al. 2017)
+
+Hybrid daylight SSL systems collect and redistribute daylighting to enhance their ability to provide light to spaces. These technologies include devices that concentrate daylight through the use of mirrored lenses, beam splitters that filter nonvisible light, and light guiding and diffusing systems that redistribute light to the building (e.g. fiber optic cables). These systems are connected by photosensors and controllers that automatically modulate electric lighting in real-time. Hybrid daylight SSL systems primarily provide the grid with efficiency, but can also provide load shedding and modulation. These systems have been available for many years, but have been adopted slowly by the market due to the high cost of fiber optic cable, low light transfer efficiency, and installation difficulty.
+
+SSL displays are connected lighting displays that use electric lighting to replace natural light from from windows and skylights. These systems mimic the direct and diffuse light from the sun and can increase a building's envelope performance if their thermal performance is better compared to the windows and skylights that they replace. SSL displays can provide some demand response capabilities, mainly by shedding load during peak periods through modulating light output and other energy consuming components. The market for this technology is currently small because of limited application (spaces without windows or skylights), high costs, and customer preference for windows.
+
+Beyond grid services, these lighting technologies have additional benefits such as energy performance, human health, and resilience.
+
+#### Equipment
+
 
 
 ### Mechanical
