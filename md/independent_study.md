@@ -177,7 +177,36 @@ Electronic displays include monitors that are used for signage (e.g. flight info
 
 ### Mechanical
 
+TODO - add qualitative potential to provide grid services for each considered technology
 
+Mechanical systems comprise the heating, ventilating, air conditioning, and refrigeration (HVACR) systems in buildings, which often make up a large portion of energy use in commercial buildings. 
+
+The DOE has identified the following HVACR strategies.
+
+1. Smart Thermostats (not considered here)
+2. Separate Sensible and Latent Space Conditioning
+3. Liquid Desiccant Thermal Energy Storage
+4. Advanced Controls for HVAC Equipment with Embedded Thermostats (not considered here)
+5. Hybrid Evaporative Precooling for AC
+6. Dual-Fuel HVAC Systems (not considered here)
+
+Traditional heating and air conditioning systems couple sensible (temperature) and latent (moisture) control into the same component, e.g. a vapor-compression (direct expansion, DX) cooling system. These systems often have enlarged evaporators, operate at a lower temperature, or extend the operating cycle to remove moisture from the air stream, which can overcool the supply air resulting in the need to reheat the air before it is delivered to the space. Overcooling and reheating consequently increase energy and demand during the cooling season. Decoupled sensible and latent air conditioning systems using liquid or solid desiccants, membrane dehumidifiers, and other technologies can remove moisture from the air without changing its temperature. Independently controlling sensible and latent cooling stages could provide grid flexibility by shifting from less efficient sensible cooling to more efficient latent cooling during peak periods.
+
+Liquid desiccant thermal energy storage (TES) use a chemical that absorb moisture from indoor air and then rejects it to the outdoors through a heating cycle known as regeneration. This type of TES stores energy chemically and does not require insulated storage tanks because liquid desiccants can be stored at ambient temperatures. The efficiency of these systems is not driven by round-trip efficiency losses as with other energy storage technologies (thermal, battery, etc.), rather it is a function of the heating needed for the regeneration process. Solar thermal coupled with this technology can be an effective way to regenerate the liquid desiccant without the need for additional energy input because peak solar radiation and latent cooling often occur coincidentally during the day.
+
+Hybrid evaporative precooling for AC combines evaporative cooling with vapor-compression cooling to increase efficiency in dry climates by shifting cooling from the high intensity vapor-compression cycle to a lower intensity evaporative process, thus reducing peak cooling demand. Evaporative modules can be packaged with vapor-compression systems or added to existing systems during a retrofit. 
+
+The DOE has also identified the following "cross-cutting" technologies that provide demand flexibility across more than one HVACR end use. 
+
+1. Thermal Energy Storage
+2. Modulating Capacity Vapor Compression
+3. Non-Vapor-Compression Materials and Systems
+
+Thermal energy storage ranges from passive systems that use additional thermal mass or insulation in a building's envelope to active systems that rely on phase change to store and release energy in an optimized way. These systems can be used for cooling-only, heating-only, or both cooling and heating. Active TES systems cool or heat materials to store energy during low cost periods so that it can be used during high cost periods with less energy input. The round-trip efficiency of these systems is typically around 80% because of thermal losses to the surroundings (Guess 2018; Energy Storage Association 2019). 
+
+Modulating capacity vapor compression systems can be used in ACs, heat pumps, HPWHs, and heat pump dryers to more precisely control temperatures compared to systems that cycle all the way on/off. 
+
+Non-vapor-compression materials and systems include several space cooling and refrigeration technologies that use specialized materials or alternative systems designs rather than the traditional VC cycle. These include solid-state NVC technologies such as thermoelectric, magnetocaloric, and electrocaloric systems that produce useful temperature differences when the solid-state material is activated by electrical input. Other technologies include membrane, thermoelastic, Stirling, liquid desiccant, and thermoacoustic systems that use electrical or thermal input to change the property (e.g. phase) of a material (e.g. working fluid) to pump heat. These technologies could offer grid benefits by modulating capacity, separating sensible and latent cooling, and thermal storage.
 
 ### Plumbing
 
