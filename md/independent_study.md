@@ -157,7 +157,23 @@ Beyond grid services, these lighting technologies have additional benefits such 
 
 #### Equipment
 
+Electronic equipment including consumer electronics and IT equipment technologies have the potential to provide grid services. These energy using devices are a subset of MELs, which represent electrical loads other than core building functions such as lightnig, HVAC, and SWH (Sofos 2016). Historically, energy efficiency has focused on non-MELs loads because they have made up the largest proportion of energy use. However, as the efficiency of these end uses has improved, the proportion of energy use by MELs has increased in total energy use and percent of total (EIA 2019). 
 
+Current demand response programs tend to focus on HVAC systems in commercial buildings or large industrial equipment not electronics, which are more typically the focus of demand side management programs that prescriptively improve efficiency. Additionally, electronic equipment does not typically include technologies that allow for automated demand response. Additionally, electronic can have significant variation in their energy use profiles unlike other building loads, which limits their ability to provide demand-side management strategies.
+
+The primary market for grid-interactive electronics is large commercial office buildings and industrial data centers where a significant portion of the building's energy use is from this end use.
+
+The DOE classifies electronics into the following categories (DOE-3 2019).
+
+1. Continuous-Operation Electronics
+2. Battery-Powered Electronics
+3. Electronic Displays
+
+Continuous-operation electronics include stationary equipment that more or less operate continuously and require a constant power supply. Examples include network equipment, stationary (desktop) computers, servers, and AV equipment. This type of electronic equipment generally uses the same amount of energy but some devices can operate in low power modes. This category of electronics has the highest relative potential to provide grid services because the equipment is constantly connected to a power supply and often operating continuously. Energy efficiency improvements offer the greatest opportunity for demand-side management by integrating low power, standby, deep sleep, or power scaling modes. Staging the operation of this equipment also has the potential to reduce building peak demand. Additional grid services could include load shedding and modulation of grid-responsive servers in data centers and offices.
+
+Battery-powered electronics include equipment with an internal rechargeable battery that require a power supply to periodically recharge. Examples include portable (laptop) computers, UPS, and miscellaneous electronics such as mobile phones. The energy use of this type of equipment ranges from cycling in the case of a laptop computer to always on in the case of a UPS. This type of equipment has moderate relative potential to provide grid services because many of these devices are portable (disconnected from the grid), do not operate continuously, and generally are a smaller portion of total building loads. Additionally, these devices are usually already energy efficient because they are designed to maximize battery life further limiting their potential. However, grid-responsive power supplies for these devices could provide load shifting to benefit the grid and building peak demand, especially UPS battery backups because they are usually always on and require more power than other devices in this category.
+
+Electronic displays include monitors that are used for signage (e.g. flight information display systems), computers, and televisions, which can range from low power mode to always on. This category of electronics has low relative potential to provide grid services because they generally represent a very small portion of overall energy use in a building. However, there are opportunities for additional energy efficiency through dimming, automatic brightness control, occupancy control, and emerging technologies such as OLEDs and quantum dots.
 
 ### Mechanical
 
