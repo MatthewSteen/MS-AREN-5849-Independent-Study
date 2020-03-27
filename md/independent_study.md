@@ -177,6 +177,8 @@ Electronic displays include monitors that are used for signage (e.g. flight info
 
 ### Mechanical
 
+[Grid-interactive Efficient Buildings Technical Report Series: HVAC, Water Heating, Appliances and Refrigeration](https://www1.eere.energy.gov/buildings/pdfs/75473.pdf)
+
 TODO - add qualitative potential to provide grid services for each considered technology
 
 Mechanical systems comprise the heating, ventilating, air conditioning, and refrigeration (HVACR) systems in buildings, which often make up a large portion of energy use in commercial buildings. 
