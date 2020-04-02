@@ -186,17 +186,20 @@ Mechanical systems comprise the heating, ventilating, air conditioning, and refr
 The DOE has identified the following HVACR strategies.
 
 1. Smart Thermostats (not considered here) **As we discussed, include all potential suitable technologies for any building type.**
+1. Smart Thermostats (controls)
 2. Separate Sensible and Latent Space Conditioning
 3. Liquid Desiccant Thermal Energy Storage
-4. Advanced Controls for HVAC Equipment with Embedded Thermostats (not considered here)
+4. Advanced Controls for HVAC Equipment with Embedded Thermostats (controls)
 5. Hybrid Evaporative Precooling for AC
-6. Dual-Fuel HVAC Systems (not considered here)
+6. Dual-Fuel HVAC Systems
 
 Traditional heating and air conditioning systems couple sensible (temperature) and latent (moisture) control into the same component, e.g. a vapor-compression (direct expansion, DX) cooling system. These systems often have enlarged evaporators, operate at a lower temperature, or extend the operating cycle to remove moisture from the air stream, which can overcool the supply air resulting in the need to reheat the air before it is delivered to the space. Overcooling and reheating consequently increase energy and demand during the cooling season. Decoupled sensible and latent air conditioning systems using liquid or solid desiccants, membrane dehumidifiers, and other technologies can remove moisture from the air without changing its temperature. Independently controlling sensible and latent cooling stages could provide grid flexibility by shifting from less efficient sensible cooling to more efficient latent cooling during peak periods. **Again try to provide specific quantative potential benefits based on any reported technical studies for this as well as any other described technology...**
 
 Liquid desiccant thermal energy storage (TES) use a chemical that absorb moisture from indoor air and then rejects it to the outdoors through a heating cycle known as regeneration. This type of TES stores energy chemically and does not require insulated storage tanks because liquid desiccants can be stored at ambient temperatures. The efficiency of these systems is not driven by round-trip efficiency losses as with other energy storage technologies (thermal, battery, etc.), rather it is a function of the heating needed for the regeneration process. Solar thermal coupled with this technology can be an effective way to regenerate the liquid desiccant without the need for additional energy input because peak solar radiation and latent cooling often occur coincidentally during the day.
 
 Hybrid evaporative precooling for AC combines evaporative cooling with vapor-compression cooling to increase efficiency in dry climates by shifting cooling from the high intensity vapor-compression cycle to a lower intensity evaporative process, thus reducing peak cooling demand. Evaporative modules can be packaged with vapor-compression systems or added to existing systems during a retrofit. 
+
+Dual-fuel HVAC systems temporarily switch fuels during heating or cooling to provide value to the grid through curtailment. Grid value is provided when the lower cost fuel is used most throughout the year and the more expensive fuel is only used during a grid event. For example, a heat pump system that switches from electric heat pump heating to natural gas heating during a winter time electric peak to shift demand to the natural gas grid. Absorption cooling, which uses a heat source to provide cooling, can also be used to shift cooling fuel from electricity to natural gas using gas-absorption cooling. Currently, the low cost of natural gas makes using it for electric curtailment infeasible. However, in areas where costly delivered fuel is used for heating (e.g. fuel oil or propane), using it to curtail electric heating can make more sense, especially since the delivered fuel and electricity markets are not interactive like the natural gas and electricity markets are.
 
 The DOE has also identified the following "cross-cutting" technologies that provide demand flexibility across more than one HVACR end use. 
 
