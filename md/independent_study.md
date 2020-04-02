@@ -185,8 +185,7 @@ Mechanical systems comprise the heating, ventilating, air conditioning, and refr
 
 The DOE has identified the following HVACR strategies.
 
-1. Smart Thermostats (not considered here) **As we discussed, include all potential suitable technologies for any building type.**
-1. Smart Thermostats (controls)
+1. Smart Thermostats (controls) **As we discussed, include all potential suitable technologies for any building type.**
 2. Separate Sensible and Latent Space Conditioning
 3. Liquid Desiccant Thermal Energy Storage
 4. Advanced Controls for HVAC Equipment with Embedded Thermostats (controls)
@@ -216,6 +215,11 @@ Non-vapor-compression materials and systems include several space cooling and re
 ### Plumbing
 
 
+
+### Controls
+
+Smart Thermostats
+Advanced Controls for HVAC Equipment with Embedded Thermostats
 
 # Results
 
