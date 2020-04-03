@@ -38,7 +38,7 @@ The DOE defines the following DSM strategies for buildings that can be implement
 4. Modulate
 5. Generate
 
-Efficiency is a reduction in energy use while providing the same or improved level of energy service(s). Graphically, efficiency is represented by a y-axis shift downward. Load shed is the ability of a building to reduce electricity use during a short period, which typically occurs during times of peak demand or emergencies and on short notice. Load shift is the ability to change the timing of electricity use, which is graphically represented by flattening the load curve. Modulation is the ability to balance real power supply with demand or the ability to balance reactive power draw with supply...
+Efficiency is a reduction in energy use while providing the same or improved level of energy service(s). Graphically **(it would be useful  to add graphs to illustrate each strategy.You may be more creative than the grapgs shown in DOE reports?!)**, efficiency is represented by a y-axis shift downward. Load shed is the ability of a building to reduce electricity use during a short period, which typically occurs during times of peak demand or emergencies and on short notice. Load shift is the ability to change the timing of electricity use, which is graphically represented by flattening the load curve. Modulation is the ability to balance real power supply with demand or the ability to balance reactive power draw with supply...
 Generation is the ability to produce electricity for consumption on-site or to dispatch electricity to the grid in response to a signal from the grid operator. For the purposes of GEBs, the DOE identifies load shed, load shift, and modulation as demand flexibility strategies.
 
 ## Grid Services
@@ -47,7 +47,7 @@ Grid services provide value through avoided electricity system costs by supporti
 
 ### Energy Efficiency
 
-Energy efficiency improves grid reliability by decreasing peak demand and reducing strain on the T&D system. By reducing load, energy efficiency improves reliability on the supply side by increasing the system's reserve margin by offsetting generation that would otherwise be needed. Energy Efficiency also improves T&D reliability by increasing available capacity in both low-voltage and high-voltage systems. To defer costly T&D upgrades, some utilities have used geographically-targeted energy efficiency programs to reduce strain.
+Energy efficiency improves grid reliability by decreasing peak demand and reducing strain on the T&D system. By reducing load, energy efficiency improves reliability on the supply side by increasing the system's reserve margin by offsetting generation that would otherwise be needed. Energy Efficiency also improves T&D reliability by increasing available capacity in both low-voltage and high-voltage systems. To defer costly T&D upgrades, some utilities have used geographically-targeted energy efficiency programs to reduce strain. **(you may list examples of these energy efficiency programs at least qualitatively the main measures considered in these programs).**
 
 From the demand-side perspective, the value that demand reduction from energy efficiency provides is a function of the amount, timing, and location of the savings. From the supply-side perspective, the value of energy efficiency is a function of the system's characteristics such as the peak demand timing (seasonal, diurnal, etc.), load factor, and reserve margin. For example, load reductions that occur during times of peak demand are more valuable than reductions that occur during off-peak times. From the T&D perspective, an important energy efficiency benefit is reduced marginal line losses, which are higher during times of peak demand due to resistive losses that scale non-linearly (i.e. with the square of current according to Joule's first law). These marginal losses must be covered by a utility's generating reserve, which makes on-peak energy efficiency more valuable.  
 
@@ -55,7 +55,7 @@ From the demand-side perspective, the value that demand reduction from energy ef
 
 In contrast to energy efficiency, which focusses on reducing energy consumption, demand response focusses on reducing peak power requirements through the timing of energy use. Demand response is also the most common form of demand flexibility currently in use in commercial and residential buildings. From the perspective of building owners, demand response can provide reduced utility costs by avoiding high peak demand charges and providing incentives for reducing demand during peak periods. From the perspective of the grid, demand response can provide increased reliability by reducing operating costs and deferring or avoiding capital upgrade costs. 
 
-Demand response can be classified into two types, dispatchable and nondispatchable, depending on who initiates the response to a peak demand event. Dispatchable demand response is initiated by the utility, grid operator, or third-party aggregator to directly control building systems to reduce demand during a peak event. Nondispatchable demand response is initiated at the building in response to price signals. 
+Demand response can be classified into two types, dispatchable and nondispatchable, depending on who initiates the response to a peak demand event. Dispatchable demand response is initiated by the utility, grid operator, or third-party aggregator to directly control building systems to reduce demand during a peak event. Nondispatchable demand response is initiated at the building in response to price signals. **Again some specific programs and strategies would be useful to list as examples.**
 
 ## Grid Services Potential
 
@@ -90,7 +90,7 @@ Architectural technologies that are suitable for GEBs include systems that separ
 
 #### Static Systems
 
-Static building envelope systems do not have dynamic or time-varying properties relying instead on inherent high performance properties that manage heat transfer, thermal bridging, and air flow (infiltration) through the system assembly. These properties can be a result of a single system component that contributes to the assembly's overall performance, such as a layer of insulation with high thermal resistance (R-value), or the result of multiple system components, such as reduced thermal bridging and air flow. Because static envelope systems do not dynamic properties they are primarily an energy efficiency DSM strategy, although they can passively shift load by delaying peak cooling and heating loads compared to lower performing systems. In some cases, a high performance envelope can be detrimental to energy use by trapping heat and increasing cooling load. 
+Static building envelope systems do not have dynamic or time-varying properties relying instead on inherent high performance properties that manage heat transfer, thermal bridging, and air flow (infiltration) through the system assembly. These properties can be a result of a single system component that contributes to the assembly's overall performance, such as a layer of insulation with high thermal resistance (R-value), or the result of multiple system components, such as reduced thermal bridging and air flow. Because static envelope systems do not have dynamic properties they are primarily an energy efficiency DSM strategy, although they can passively shift load by delaying peak cooling and heating loads compared to lower performing systems. In some cases, a high performance envelope (i.e., with high thermal resistance, for instance) can be detrimental to energy use by trapping heat and increasing cooling load. 
 
 ADD EXAMPLES, CONSIDER INCLUDING RESILIENCY TERMS (PASSIVE SURVIVABILITY ETC)
 
@@ -119,7 +119,7 @@ Opaque Systems
 * Variable Radiative Technologies
 * Building-Integrated Photovoltaics
 
-Tunable thermal conductivity materials have thermophysical properties that can be dynamically adjusted to produce a desired thermal performance. For example, during cooling periods these materials would have high thermal transmittance (low R-value) when the outdoor temperature is lower than the indoor temperature to precool the building effectively acting like night flushing without the need for mechanical ventilation. Conversely, in the heating season these materials would have low thermal transmittance (high R-value) to minimize heat loss to the outdoors.
+Tunable thermal conductivity materials have thermophysical properties that can be dynamically adjusted to produce a desired thermal performance. For example, during cooling periods these materials would have high thermal transmittance (low R-value) when the outdoor temperature is lower than the indoor temperature to precool the building effectively acting like night flushing without the need for mechanical ventilation. Conversely, in the heating season these materials would have low thermal transmittance (high R-value) to minimize heat loss to the outdoors.**(In these descriptions of various technologies, you can list examples of technologies based on the technical literature/journals, that is Buildings and Energy, Applied Energy, etc.)**
 
 Thermally anisotropic systems include components and assemblies with areas of high and low thermal conductivity that allows heat to be routed through the envelope to a heat sink such as a plumbing loop.
 
@@ -133,15 +133,109 @@ Building-integrated photovoltaics, although part of a building's electrical syst
 
 ### Electrical
 
+[Grid-interactive Efficient Buildings Technical Report Series: Lighting and Electronics](https://www1.eere.energy.gov/buildings/pdfs/75475.pdf)
 
+Electrical technologies that are suitable for GEBs include lighting systems, consumer electronics, and information technology (IT) equipment. 
+
+#### Lighting
+
+Currently, the use of lighting for grid services is low, with and estimated 4% of commercial buildings reporting demand responsive lighting in the 2012 CBECS (EIA 2012). Historically, lighting systems have not been used for demand response because they are not inherently capable of shifting their load and are generally considered a critical load in occupied spaces, i.e. for safety, productivity, and comfort so they cannot be completely turned off. The primary demand response strategy of dimming is restricted to a small range that will not compromise safety, productivity, and comfort of building occupants. Lighting is only valuable to the grid at the whole building level **(depending on the building type?!)** because the average power of a single lamp is small relative to other individual loads, therefore the commercial building sector is the most viable market for grid-responsive lighting systems. In addition to demand response, lighting systems can be used for demand-side management by reducing building peaks, which is typically accomplished by dimming to shed load. However, California's 2016 energy standard (Title 24) requires that all buildings greater than 10,000 ft2 must be capable of automatically reducing lighting power by 15% in response to a signal from the grid. 
+
+The following lighting technologies are suitable for GEBs according to the DOE (DOE-3 2019).
+
+1. Advanced Sensors and Controls
+2. Hybrid Daylight SSL Systems
+3. SSL Displays
+
+Advanced sensors and controls improve the ability of connected lighting systems to adjust their power-consuming features such as light levels and spectrum, sensors, or network interfaces through embedded control algorithms. These technologies would enable lighting systems to interact with the grid and other building-level sensors and controllers to reduce loads and provide the grid with contingency reserves and frequency regulation. The market for these technologies is expected to grow significantly in the commercial building sector, with one estimate predicting 35% penetration by 2035 (Penning et. al. 2017)
+
+Hybrid daylight SSL systems collect and redistribute daylighting to enhance their ability to provide light to spaces. These technologies include devices that concentrate daylight through the use of mirrored lenses, beam splitters that filter nonvisible light, and light guiding and diffusing systems that redistribute light to the building (e.g. fiber optic cables). These systems are connected by photosensors and controllers that automatically modulate electric lighting in real-time. Hybrid daylight SSL systems primarily provide the grid with efficiency, but can also provide load shedding and modulation. These systems have been available for many years, but have been adopted slowly by the market due to the high cost of fiber optic cable, low light transfer efficiency, and installation difficulty.
+
+SSL displays are connected lighting displays that use electric lighting to replace natural light from from windows and skylights. These systems mimic the direct and diffuse light from the sun and can increase a building's envelope performance if their thermal performance is better compared to the windows and skylights that they replace. SSL displays can provide some demand response capabilities, mainly by shedding load during peak periods through modulating light output and other energy consuming components. The market for this technology is currently small because of limited application (spaces without windows or skylights), high costs, and customer preference for windows.
+
+Beyond grid services, these lighting technologies have additional benefits such as energy performance, human health, and resilience.
+
+#### Equipment
+
+Electronic equipment including consumer electronics and IT equipment technologies have the potential to provide grid services. These energy using devices are a subset of MELs, which represent electrical loads other than those related to core building functions such as lightnig, HVAC, and SWH (Sofos 2016). Historically, energy efficiency has focused on non-MELs loads because they have made up the largest proportion of energy use. However, as the efficiency of these end uses has improved, the proportion of energy use by MELs has increased in total energy use and percent of total (EIA 2019). 
+
+Current demand response programs tend to focus on HVAC systems in commercial buildings or large industrial equipment not electronics, which are more typically the target of demand side management programs that prescriptively improve efficiency. Additionally, electronic equipment does not typically include technologies that allow for automated demand response. Additionally, electronic can have significant variation in their energy use profiles unlike other building loads, which limits their ability to provide demand-side management strategies.
+
+The primary market for grid-interactive electronics is large commercial office buildings and industrial data centers where a significant portion of the building's energy use is attributed to this end use.
+
+The DOE classifies electronics into the following categories (DOE-3 2019).
+
+1. Continuous-Operation Electronics
+2. Battery-Powered Electronics
+3. Electronic Displays
+
+Continuous-operation electronics include stationary equipment that more or less operate continuously and require a constant power supply. Examples include network equipment, stationary (desktop) computers, servers, and AV equipment. This type of electronic equipment generally uses the same amount of energy but some devices can operate in low power modes. This category of electronics has the highest relative potential to provide grid services because the equipment is constantly connected to a power supply and often operating continuously. Energy efficiency improvements offer the greatest opportunity for demand-side management by integrating low power, standby, deep sleep, or power scaling modes. Staging the operation of this equipment also has the potential to reduce building peak demand. Additional grid services could include load shedding and modulation of grid-responsive servers in data centers and offices.
+
+Battery-powered electronics include equipment with an internal rechargeable battery that require a power supply to periodically recharge. Examples include portable (laptop) computers, UPS, and miscellaneous electronics such as mobile phones. The energy use of this type of equipment ranges from cycling in the case of a laptop computer to always on in the case of a UPS. This type of equipment has moderate relative potential to provide grid services because many of these devices are portable (disconnected from the grid), do not operate continuously, and generally are a smaller portion of total building loads. Additionally, these devices are usually already energy efficient because they are designed to maximize battery life further limiting their potential. However, grid-responsive power supplies for these devices could provide load shifting to benefit the grid and building peak demand, especially UPS battery backups because they are usually always on and require more power than other devices in this category.
+
+Electronic displays include monitors that are used for signage (e.g. flight information display systems), computers, and televisions, which can range from low power mode to always on. This category of electronics has low relative potential to provide grid services because they generally represent a very small portion of overall energy use in a building. However, there are opportunities for additional energy efficiency through dimming, automatic brightness control, occupancy control, and emerging technologies such as OLEDs and quantum dots.
+
+Appliances are an additional category of electric equipment that can provide grid services (natural gas appliances are discussed in the Plumbing section). Much like consumer electronics and IT equipment, appliances are heterogeneous in load profiles and schedules. For example, some appliances operate relatively continuously (refrigerators) while others have finite cycles (dishwashers and clothes dryers). Appliances that operate continuously are more likely to benefit the grid by being able to modulate their load. Appliances with finite cycles are most suitable for load shifting because their load can be easily moved out of peak periods. These types of appliances have traditionally been targets for DR programs. For clothes dryers, technologies that allow for modulating or staging the heating cycle and delayed start options could be used to provide grid services for efficiency and load shifting respectively. Additionally, heat pump clothes dryers offer additional efficiency improvements over traditional electric resistance heating and can also be modulated when they incorporate variable speed compressors. Modulating the heating element allows the moisture removal rate to to more closely match the heat input rate, which reduces overdrying and improves efficiency. Longer cycle times with lower temperature drying allows for better efficiency along with load shifting and some load shedding. The highest grid service potential is modulation because electric resistance appliances can respond very quickly (seconds) without damage.
 
 ### Mechanical
 
+[Grid-interactive Efficient Buildings Technical Report Series: HVAC, Water Heating, Appliances and Refrigeration](https://www1.eere.energy.gov/buildings/pdfs/75473.pdf)
 
+TODO - add qualitative potential to provide grid services for each considered technology
 
-### Plumbing
+Mechanical systems comprise the heating, ventilating, air conditioning, and refrigeration (HVACR) systems in buildings, which often make up a large portion of energy use in commercial buildings. 
 
+The DOE has identified the following HVACR strategies.
 
+1. Smart Thermostats (controls) **As we discussed, include all potential suitable technologies for any building type.**
+2. Separate Sensible and Latent Space Conditioning
+3. Liquid Desiccant Thermal Energy Storage
+4. Advanced Controls for HVAC Equipment with Embedded Thermostats (controls)
+5. Hybrid Evaporative Precooling for AC
+6. Dual-Fuel HVAC Systems
+
+Traditional heating and air conditioning systems couple sensible (temperature) and latent (moisture) control into the same component, e.g. a vapor-compression (direct expansion, DX) cooling system. These systems often have enlarged evaporators, operate at a lower temperature, or extend the operating cycle to remove moisture from the air stream, which can overcool the supply air resulting in the need to reheat the air before it is delivered to the space. Overcooling and reheating consequently increase energy and demand during the cooling season. Decoupled sensible and latent air conditioning systems using liquid or solid desiccants, membrane dehumidifiers, and other technologies can remove moisture from the air without changing its temperature. Independently controlling sensible and latent cooling stages could provide grid flexibility by shifting from less efficient sensible cooling to more efficient latent cooling during peak periods. Decoupled sensible and latent space conditioning has high potential to provide grid services by primarily benefiting efficiency, but it can also provide load shed and shift (DOE-4, 2019). Research evaluating this technology in packaged terminal air conditioners suggests that efficiency savings of 30% (Alabdulkarem, 2015).
+
+Liquid desiccant thermal energy storage (TES) use a chemical that absorb moisture from indoor air and then rejects it to the outdoors through a heating cycle known as regeneration. This type of TES stores energy chemically and does not require insulated storage tanks because liquid desiccants can be stored at ambient temperatures. The efficiency of these systems is not driven by round-trip efficiency losses as with other energy storage technologies (thermal, battery, etc.), rather it is a function of the heating needed for the regeneration process. Solar thermal coupled with this technology can be an effective way to regenerate the liquid desiccant without the need for additional energy input because peak solar radiation and latent cooling often occur coincidentally during the day. This technology has high potential to provide grid services (DOE-4, 2019) by providing load shifting during periods of high demand. Load shed and efficiency have less potential because the desiccant will always need to be recharged at a later time. Efficiency can be improved by using renewable energy to regenerate the desiccant.
+
+Hybrid evaporative precooling for AC combines evaporative cooling with vapor-compression cooling to increase efficiency in dry climates by shifting cooling from the high intensity vapor-compression cycle to a lower intensity evaporative process, thus reducing peak cooling demand. Evaporative modules can be packaged with vapor-compression systems or added to existing systems during a retrofit. This technology has low potential to provide grid services, primarily through efficiency by improving the cooling system's COP.
+
+Dual-fuel HVAC systems temporarily switch fuels during heating or cooling to provide value to the grid through curtailment. Grid value is provided when the lower cost fuel is used most throughout the year and the more expensive fuel is only used during a grid event. For example, a heat pump system that switches from electric heat pump heating to natural gas heating during a winter time electric peak to shift demand to the natural gas grid. Absorption cooling, which uses a heat source to provide cooling, can also be used to shift cooling fuel from electricity to natural gas using gas-absorption cooling. Currently, the low cost of natural gas makes using it for electric curtailment infeasible. However, in areas where costly delivered fuel is used for heating (e.g. fuel oil or propane), using it to curtail electric heating can make more sense, especially since the delivered fuel and electricity markets are not interactive like the natural gas and electricity markets are. This technology has low potential to provide grid services by shedding load because the opportunity is infrequent, mostly during winter peak periods, and most applicable to switching from heat pump heating to natural gas or delivered fuel heating. Low natural gas prices is a significant hindrance to adoption (DOE-4, 2019).
+
+The DOE has also identified the following "cross-cutting" technologies that provide demand flexibility across more than one HVACR end use. 
+
+1. Thermal Energy Storage
+2. Modulating Capacity Vapor Compression
+3. Non-Vapor-Compression Materials and Systems
+
+Thermal energy storage ranges from passive systems that use additional thermal mass or insulation in a building's envelope to active systems that rely on phase change to store and release energy in an optimized sequence. These systems can be used for cooling-only, heating-only, or both cooling and heating. Active TES systems cool or heat materials to store energy during low cost periods so that it can be used during high cost periods with less energy input. The round-trip efficiency of these systems is typically around 80% because of thermal losses to the surroundings (Guess 2018; Energy Storage Association 2019). This technology has high potential to provide grid services primarily through daily load shifting to reduce demand charges. Load shedding is possible when the shift in energy use allows equipment to operate at a higher efficiency, e.g. higher EER at night.
+
+Modulating capacity vapor compression systems can be used in ACs, heat pumps, HPWHs, and heat pump dryers to more precisely control temperatures compared to systems that cycle all the way on/off. This technology has medium potential to provide grid services. It primarily offers efficiency improvements as well as comfort, but it can provide load shifting by precooling or preheating the building prior to a peak period thus shifting the load forward allowing the building's thermal inertia to carry it through the peak period. Additionally, a combination of load shifting and shedding could be provided by changing setpoint temperatures without precooling or preheating during a peak period, which sheds load and shifts it to a later time when the setpoints return to their original states. This technology could also provide modulation services by providing frequency regulation and voltage support (through power factor control using power electronics for VSDs). 
+
+Non-vapor-compression materials and systems include several space cooling and refrigeration technologies that use specialized materials or alternative systems designs rather than the traditional VC cycle. These include solid-state NVC (define?) technologies such as thermoelectric, magnetocaloric, and electrocaloric systems that produce useful temperature differences when the solid-state material is activated by electrical input. Other technologies include membrane, thermoelastic, Stirling, liquid desiccant, and thermoacoustic systems that use electrical or thermal input to change the property (e.g. phase) of a material (e.g. working fluid) to pump heat. These technologies could offer grid benefits by modulating capacity, separating sensible and latent cooling, and thermal storage. This technology has high potential to offer grid services primarily through efficiency and load shifting. However, load shedding and modulation are possible with variable capacity control.
+
+### Plumbing - interesting that the DOE report doesn't mention tankless or HPWHs for efficiency
+
+Plumbing systems suitable for GEBs primarily include SWH. However, the plumbing discipline is also responsible for designing piping for natural gas systems, which will be discussed in this section. Water heaters generally fall into two categories; storage and tankless. Tankless water heaters have limited potential to provide grid services because they are designed to operate on-demand and thus are not able to shift or shed load. In contrast, storage water heaters are well suited for GEBs because TES is part of their fundamental design, which allows them to decouple power demand from energy consumption and provide load shifting away from peak periods.
+
+The DOE identifies the following technology for GEBs.
+
+1. Dual-Fuel Water Heater
+
+Dual-fuel water heaters temporarily switch fuels during heating to provide value to the grid through curtailment. Like dual-fuel HVAC systems, grid value is provided when the lower cost fuel is used most throughout the year and the more expensive fuel is only used during a grid event. Markets or regions that use electricity and delivered fuels have the highest potential for these systems because delivered fuel costs are generally higher than electricity. This technology has low potential to provide grid services because it can only provide load shed but viable markets are limited due to the low cost of natural gas compared to electricity and regional differences in delivered fuel use. Given financial incentives this technology can provide load shedding for infrequent emergencies, but the electric grid will not benefit if natural gas costs less.
+
+Similar to electrical appliances, natural gas appliances can offer grid services suitable for GEBs. Specifically, clothes dryers that use natural gas could incorporate modulating or staged heating to improve efficiency, use a delayed start to shift load, or used connected technology to provide load shedding. 
+
+The DOE identifies the following natural gas technologies.
+
+1. Building-Scale CHP
+
+Combined heat and power (CHP), which combines electricity production with waste heat capture and use, can provide grid flexibility by serving on-site electric loads or exporting electricity to the grid while also serving on-site thermal loads (heating directly or cooling through absorption technology). These systems are often used by large buildings and campuses to reduce operating costs by avoiding high consumption and demand charges of grid-tied electricity. Combined heat and power systems can also be used with TES to shift loads to off-peak periods. Operators of these systems can also adjust their dispatch schedule to take advantage of day-ahead and real-time electricity pricing in some markets as well as participate in capacity, energy, and DR markets. This technology has high potential to provide grid services through efficiency by producing electricity on-site and avoiding losses, load shedding if able to increase production during a grid event, and load shifting when combined with TES.
+
+### Controls
+
+Smart Thermostats
+Advanced Controls for HVAC Equipment with Embedded Thermostats
 
 # Results
 
