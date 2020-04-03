@@ -214,9 +214,23 @@ Modulating capacity vapor compression systems can be used in ACs, heat pumps, HP
 
 Non-vapor-compression materials and systems include several space cooling and refrigeration technologies that use specialized materials or alternative systems designs rather than the traditional VC cycle. These include solid-state NVC (define?) technologies such as thermoelectric, magnetocaloric, and electrocaloric systems that produce useful temperature differences when the solid-state material is activated by electrical input. Other technologies include membrane, thermoelastic, Stirling, liquid desiccant, and thermoacoustic systems that use electrical or thermal input to change the property (e.g. phase) of a material (e.g. working fluid) to pump heat. These technologies could offer grid benefits by modulating capacity, separating sensible and latent cooling, and thermal storage. This technology has high potential to offer grid services primarily through efficiency and load shifting. However, load shedding and modulation are possible with variable capacity control.
 
-### Plumbing
+### Plumbing - interesting that the DOE report doesn't mention tankless or HPWHs for efficiency
 
+Plumbing systems suitable for GEBs primarily include SWH. However, the plumbing discipline is also responsible for designing piping for natural gas systems, which will be discussed in this section. Water heaters generally fall into two categories; storage and tankless. Tankless water heaters have limited potential to provide grid services because they are designed to operate on-demand and thus are not able to shift or shed load. In contrast, storage water heaters are well suited for GEBs because TES is part of their fundamental design, which allows them to decouple power demand from energy consumption and provide load shifting away from peak periods.
 
+The DOE identifies the following technology for GEBs.
+
+1. Dual-Fuel Water Heater
+
+Dual-fuel water heaters temporarily switch fuels during heating to provide value to the grid through curtailment. Like dual-fuel HVAC systems, grid value is provided when the lower cost fuel is used most throughout the year and the more expensive fuel is only used during a grid event. Markets or regions that use electricity and delivered fuels have the highest potential for these systems because delivered fuel costs are generally higher than electricity. This technology has low potential to provide grid services because it can only provide load shed but viable markets are limited due to the low cost of natural gas compared to electricity and regional differences in delivered fuel use. Given financial incentives this technology can provide load shedding for infrequent emergencies, but the electric grid will not benefit if natural gas costs less.
+
+Similar to electrical appliances, natural gas appliances can offer grid services suitable for GEBs. Specifically, clothes dryers that use natural gas could incorporate modulating or staged heating to improve efficiency, use a delayed start to shift load, or used connected technology to provide load shedding. 
+
+The DOE identifies the following natural gas technologies.
+
+1. Building-Scale CHP
+
+Combined heat and power (CHP), which combines electricity production with waste heat capture and use, can provide grid flexibility by serving on-site electric loads or exporting electricity to the grid while also serving on-site thermal loads (heating directly or cooling through absorption technology). These systems are often used by large buildings and campuses to reduce operating costs by avoiding high consumption and demand charges of grid-tied electricity. Combined heat and power systems can also be used with TES to shift loads to off-peak periods. Operators of these systems can also adjust their dispatch schedule to take advantage of day-ahead and real-time electricity pricing in some markets as well as participate in capacity, energy, and DR markets. This technology has high potential to provide grid services through efficiency by producing electricity on-site and avoiding losses, load shedding if able to increase production during a grid event, and load shifting when combined with TES.
 
 ### Controls
 
