@@ -143,7 +143,7 @@ Currently, the use of lighting for grid services is low, with and estimated 4% o
 
 The following lighting technologies are suitable for GEBs according to the DOE (DOE-3 2019).
 
-1. Advanced Sensors and Controls
+1. Advanced Sensors and Controls (controls)
 2. Hybrid Daylight SSL Systems
 3. SSL Displays
 
@@ -234,8 +234,17 @@ Combined heat and power (CHP), which combines electricity production with waste 
 
 ### Controls
 
-Smart Thermostats
-Advanced Controls for HVAC Equipment with Embedded Thermostats
+A key part of GEBs are the control systems that that connect the discrete systems within a building and allow for "smart" operation through sensors, actuators, and controllers between systems and with the grid. Advanced control systems have the potential to reduce site energy consumption by 29% in commercial buildings through the use of high performance sequences of operation, occupancy-based optimization, and automated fault detection and diagnostics (Fernandez et. al., 2017). Additionally, advanced control systems could affect 10-20% of peak loads in commercial buildings (Kiliccote et. al., 2016). 
+
+TODO - from Mechanical and Plumbing above
+
+* Smart Thermostats
+* Advanced Controls for HVAC Equipment with Embedded Thermostats
+* Water Heaters with Smart Connected Controls (electric and gas)
+* Modulating, Advanced Clothes Dryers (electric and gas)
+* Advanced Dishwasher/Clothes Dryer Controls
+* Advanced Residential Refrigerator/Freezer Controls
+* Advanced Controls for Commercial Refrigeration
 
 # Results
 
