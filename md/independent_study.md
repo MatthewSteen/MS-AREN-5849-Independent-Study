@@ -234,17 +234,31 @@ Combined heat and power (CHP), which combines electricity production with waste 
 
 ### Controls
 
-A key part of GEBs are the control systems that that connect the discrete systems within a building and allow for "smart" operation through sensors, actuators, and controllers between systems and with the grid. Advanced control systems have the potential to reduce site energy consumption by 29% in commercial buildings through the use of high performance sequences of operation, occupancy-based optimization, and automated fault detection and diagnostics (Fernandez et. al., 2017). Additionally, advanced control systems could affect 10-20% of peak loads in commercial buildings (Kiliccote et. al., 2016). 
+A key part of GEBs are the control systems that connect the discrete systems within a building and allow for "smart" operation through sensors, actuators, and controllers between systems and with the grid. Advanced control systems have the potential to reduce site energy consumption by 29% in commercial buildings through the use of high performance sequences of operation, occupancy-based optimization, and automated fault detection and diagnostics (Fernandez et. al., 2017). Additionally, advanced control systems could affect 10-20% of peak loads in commercial buildings (Kiliccote et. al., 2016). 
 
-TODO - from Mechanical and Plumbing above
+Control systems cross multiple design disciplines and thus are included in a separate section here. The DOE identifies the following technologies related to controls.
 
 * Smart Thermostats
 * Advanced Controls for HVAC Equipment with Embedded Thermostats
 * Water Heaters with Smart Connected Controls (electric and gas)
-* Modulating, Advanced Clothes Dryers (electric and gas)
+* ~~Modulating, Advanced Clothes Dryers (electric and gas)~~ TODO discussed above
 * Advanced Dishwasher/Clothes Dryer Controls
 * Advanced Residential Refrigerator/Freezer Controls
 * Advanced Controls for Commercial Refrigeration
+
+In addition to sensing the zone conditions and controlling the attached HVAC system, smart thermostats are connected to the internet, contain advanced control algorithms, and can connect to home automation systems. These features allow smart thermostats to perform more advanced controls for relatively simple HVAC systems. Smart thermostats are best suited for residential buildings and small commercial buildings where they can serve as a less complicated alternative to SHEMS and BAS.
+
+Advanced controls for HVAC equipment with embedded thermostats (HVAC-ET) include HVAC equipment with internal built-in sensors and control algorithms rather than external wall-mounted thermostats. Embedded thermostats are included in window ACs, portable ACs, PTACs, PTHPs, and MSHPs where Wi-Fi is used to communicate directly with grid operators or utilities for demand response programs. These controls allow the compressor to be temporarily turned off or the setpoint to be changed with user overrides.
+
+Smart water heaters include internal or external controls that take advantage of the equipment's inherent TES capability. Preheating the tank during off-peak periods allows for water draws with reduced or no power use during on-peak periods, shifting the water heater's load to benefit the grid without the loss of functionality to the consumer. Load shedding can be accomplished by turning the water heater off for emergency curtailment. Frequency regulation is also possible with water heaters that use electric resistance heating (solely or HPWH) and that allow direct utility control for the fast response time required for frequency regulation. However, frequency regulation may reduce the life of VC equipment. 
+
+Modulating clothes dryers...
+
+Clothes dryers and dishwashers with advanced controls to delay or schedule their discrete cycles could shift loads to off-peak periods but require consideration of user preferences. For example, leaving wet clothes in a washing machine too long could cause concerns, but combined clothes washer-dryer appliances is one technology that could alleviate concerns. This technology has medium potential to provide load shifting.
+
+Residential refrigerator and freezer controls can provide load shifting for the electric grid through low operation mode, defrost cycle delay, and freezer precooling. Low operation mode works by shutting off the compressor and anti-sweat heaters in response to a grid signal or by the consumer to reduce peak demand charges. During a grid event, delaying the defrost cycle can reduce the refrigerator's load. Freezer precooling works by overcooling the freezer prior to a curtailment period or during a scheduled peak load reduction period and then modulating the airflow from the freezer to the refrigerator to maintain its setpoint. These technologies have low potential to provide load shifting.
+
+Similar to residential refrigerators, commercial refrigeration equipment could benefit the grid using low operation mode, defrost cycle delay, and freezer precooling. However, in a commercial building such as a supermarket or refrigerated warehouse, these technologies can staggered across multiple pieces to provide additional benefits. These technologies have high potential to offer grid services primarily through load shifting by scheduled precooling. Some load shedding is possible with corresponding load shifting to bring the equipment back to setpoint following the grid event. Efficiency gains are possible with smart controls, which can benefit owners through lower operating costs but with little benefit to the grid because the savings will most likely occur during off-peak times. 
 
 # Results
 
