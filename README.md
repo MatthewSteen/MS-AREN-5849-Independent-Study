@@ -1,4 +1,4 @@
-# Independent Study
+# CVEN 5849 Independent Study
 
 ## Description and Goals
 
@@ -11,3 +11,5 @@ The independent study topic will be a literature review to categorize measures a
 ## Methods and Evaluation 
 
 The independent study methods will include the goals above, which will be evaluated based on a final report delivered to the faculty member on or before the end of the semester. Regular meetings with the faculty member will be scheduled as needed. 
+
+## Abstract
