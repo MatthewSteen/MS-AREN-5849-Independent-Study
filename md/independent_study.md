@@ -104,11 +104,11 @@ Window Systems
 
 Dynamic building envelope systems have properties that can be actively modified to decrease or increase their performance to achieve desired DSM strategies and grid services. Currently available dynamic envelope technologies include dynamic glazing and automated attachments. 
 
-Dynamic glazing technologies include electrochromic glazing and thermochromic glazing that change tint (solar heat gain coefficient, SHGC) allowing more or less solar radiation into the building. Electrochromic glazing has more than one tint state (SHGC) compared to non-dynamic glazing, that can be changed by applying electric voltage to an electrochromic layer. Thermochromic glazing passively responds to temperature to change its SHGC. 
+Dynamic glazing technologies include electrochromic glazing and thermochromic glazing that change tint (solar heat gain coefficient, SHGC) allowing more or less solar radiation into the building. Electrochromic glazing has more than one tint state (SHGC) compared to non-dynamic glazing, that can be changed by applying electric voltage to an electrochromic layer. Thermochromic glazing passively responds to temperature to change its SHGC. In commercial buildings in the northern hemisphere, electrochromic glazing is estimated to reduce peak demand by 20-30% for east, south, and west thermal zones with an estimated primary energy savings of 10-20% (LBNL, 2004). 
 
 Automated attachments include exterior and interior devices that open or close to allow or block solar radiation into the building. Examples include interior devices such as blinds and shades, and exterior devices such as awnings or shutters. 
 
-Photovoltaic glazing generates electricity the same way that traditional photovoltaic modules do, but are semi-transparent or transparent allowing some portion of visible light to pass through. Thus, PV glazing acts as part of an electricity generating system and a window system.
+Photovoltaic glazing generates electricity the same way that traditional photovoltaic modules do, but are semi-transparent or transparent allowing some portion of visible light to pass through. Thus, PV glazing acts as part of an electricity generating system and a window system. An optimized PV insulating glass unit has shown 10.7% energy savings compared to a traditional low-e IGU in whole-building energy simulations (Wang, 2016).
 
 Opaque Systems
 
@@ -121,13 +121,13 @@ Opaque Systems
 
 Tunable thermal conductivity materials have thermophysical properties that can be dynamically adjusted to produce a desired thermal performance. For example, during cooling periods these materials would have high thermal transmittance (low R-value) when the outdoor temperature is lower than the indoor temperature to precool the building effectively acting like night flushing without the need for mechanical ventilation. Conversely, in the heating season these materials would have low thermal transmittance (high R-value) to minimize heat loss to the outdoors.**(In these descriptions of various technologies, you can list examples of technologies based on the technical literature/journals, that is Buildings and Energy, Applied Energy, etc.)**
 
-Thermally anisotropic systems include components and assemblies with areas of high and low thermal conductivity that allows heat to be routed through the envelope to a heat sink such as a plumbing loop.
+Thermally anisotropic systems include components and assemblies with areas of high and low thermal conductivity that allows heat to be routed through the envelope to a heat sink such as a plumbing loop. Recent experimental results have shown cooling and heating load reductions of 86% and 63% compared to a baseline wall assembly with traditional cavity insulation. Numerical simulation results have shown cooling energy savings of 11% in cooling-dominated climates and heating energy savings of 21% in heating-dominated climates (Biswas, 2019).
 
 Thermal storage materials have variable heat capacity properties that allow them to release or store heat. They behave similarly to passive thermal mass, such as strategically adding materials with high heat capacity, but with less volume and weight. Phase change materials (PCMs) are a type of thermal storage material that passively charge and discharge. PCMs are currently available but are not widely used in buildings.
 
 Moisture storage and extraction...
 
-Variable radiative technologies include materials that can reject heat during the daytime or even in direct sun. Cool roofs are a well established strategy to reduce cooling loads in warm/hot climates that are not appropriate for colder climates because they do not decrease energy use. These strategies are currently passive, but if they could be dynamically controlled to change their radiative heat transfer properties they could provide additional grid services through expanded DSM functions.
+Variable radiative technologies include materials that can reject heat during the daytime or even in direct sun. Cool roofs are a well established strategy to reduce cooling loads in warm/hot climates that are not appropriate for colder climates because they do not decrease energy use. These strategies are currently passive, but if they could be dynamically controlled to change their radiative heat transfer properties they could provide additional grid services through expanded DSM functions. A recently developed metamaterial showed noontime radiative cooling of 93 Watts per square meter under direct sun (Zhai, 2016).
 
 Building-integrated photovoltaics, although part of a building's electrical system, refer to PV integrated into the opaque portions of the envelope. For example, wall cladding or roof shingles. 
 
