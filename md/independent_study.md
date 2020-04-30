@@ -139,7 +139,7 @@ The following electrical equipment technologies are suitable for GEBs (DOE, 2019
 - Continuous-Operation Electronics
 - Battery-Powered Electronics
 - Electronic Displays
-- Appliances
+- Modulating, Advanced Clothes Dryers (electric)
 
 Continuous-operation electronics include stationary equipment that more or less operate continuously and require a constant power supply. Examples include network equipment, stationary (desktop) computers, servers, and AV equipment. This type of electronic equipment generally uses the same amount of energy but some devices can operate in low power modes. This category of electronics has the highest relative potential to provide grid services because the equipment is constantly connected to a power supply and often operating continuously. Energy efficiency improvements offer the greatest opportunity for demand-side management by integrating low power, standby, deep sleep, or power scaling modes. Staging the operation of this equipment also has the potential to reduce building peak demand. Additional grid services could include load shedding and modulation of grid-responsive servers in data centers and offices.
 
