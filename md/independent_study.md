@@ -217,20 +217,69 @@ Residential refrigerator and freezer controls can provide load shifting for the 
 
 Similar to residential refrigerators, commercial refrigeration equipment could benefit the grid using low operation mode, defrost cycle delay, and freezer precooling. However, in a commercial building such as a supermarket or refrigerated warehouse, these technologies can staggered across multiple pieces to provide additional benefits. These technologies have high potential to offer grid services primarily through load shifting by scheduled precooling. Some load shedding is possible with corresponding load shifting to bring the equipment back to setpoint following the grid event. Efficiency gains are possible with smart controls, which can benefit owners through lower operating costs but with little benefit to the grid because the savings will most likely occur during off-peak times. Glavan et. al. found a peak load reduction of 18% for commercial refrigeration in supermarkets due to precooling (Glavan, 2018).
 
-# Results
+# 3. Results and Discussion
 
-Categorize measures and technologies that are suitable for GEBs.
+## 3.1 Architectural
 
-* Bassed on design discipline
-  * Architectural
-  * Electrical
-  * Mechanical
-  * Plumbing
-* Based on literature review
+| Technology | DOE Potential | Mature/Available | BPS Software | 
+| :- | :-: | :-: | :-: |
+| Tunable Thermal Conductivity Materials | High | &#9675; | &#9673; | 
+| Thermally Anisotropic Systems | High | &#9675; | &#9675; | 
+| Thermal Storage | High | &#9673; | &#9673; | 
+| Moisture Storage and Extraction | Medium | &#9675; | &#9675; | 
+| Variable Radiative Technologies | Medium | &#9675; | &#9673; | 
+| Building-Integrated Photovoltaics | Low | &#9673; | &#9673; | 
+| Dynamic Glazing | High | &#9673; | &#9673; | 
+| Automated Attachments | High | &#9673; | &#9673; | 
+| Photovoltaic Glazing | Medium | &#9673; | &#9673; | 
 
-# Discussion
 
-TODO
+## 3.2 Electrical
+
+| Technology | DOE Potential | Mature/Available | BPS Software | 
+| :- | :-: | :-: | :-: |
+| Hybrid Daylight SSL Systems | Medium | &#9673; | &#9675; | 
+| SSL Displays | Low | &#9673; | &#9675; | 
+| Continuous-Operation Electronics | High | &#9673; | &#9673; | 
+| Battery-Powered Electronics | Medium | &#9673; | &#9673; | 
+| Electronic Displays | Low | &#9673; | &#9673; | 
+| Modulating, Advanced Clothes Dryers (electric) | Medium | &#9673; | &#9673; | 
+
+
+## 3.3 Mechanical
+
+| Technology | DOE Potential | Mature/Available | BPS Software | 
+| :- | :-: | :-: | :-: |
+| Separate Sensible and Latent Space Conditioning | High | &#9673; | &#9673; | 
+| Liquid Desiccant Thermal Energy Storage | High | &#9675; | &#9675; | 
+| Hybrid Evaporative Precooling for AC | Low | &#9673; | &#9673; | 
+| Dual-Fuel HVAC Systems | Low | &#9673; | &#9673; | 
+| Thermal Energy Storage | High | &#9673; | &#9673; | 
+| Modulating Capacity Vapor Compression | Medium | &#9673; | &#9673; | 
+| Non-Vapor-Compression Materials and Systems | High | &#9675; | &#9675; | 
+
+
+## 3.4 Plumbing
+
+| Technology | DOE Potential | Mature/Available | BPS Software | 
+| :- | :-: | :-: | :-: |
+| Dual-Fuel Water Heater | Low | &#9675; | &#9673; | 
+| Modulating, Advanced Clothes Dryers (gas) | Medium | &#9673; | &#9673; | 
+| Building-Scale CHP | High | &#9673; | &#9673; | 
+
+
+## 3.5 Controls
+
+| Technology | DOE Potential | Mature/Available | BPS Software | 
+| :- | :-: | :-: | :-: |
+| Advanced Sensors and Controls (lighting) | High | &#9673; | &#9673; | 
+| Smart Thermostats | High | &#9673; | &#9673; | 
+| Advanced Controls for HVAC Equipment with Embedded Thermostats | Medium | &#9673; | &#9673; | 
+| Water Heaters with Smart Connected Controls (electric and gas) | High | &#9673; | &#9673; | 
+| Advanced Dishwasher/Clothes Washer Controls | Medium | &#9673; | &#9673; | 
+| Advanced Residential Refrigerator/Freezer Controls | Medium | &#9673; | &#9673; | 
+| Advanced Controls for Commercial Refrigeration | Medium | &#9675; | &#9673; | 
+
 
 # Conclusions
 
