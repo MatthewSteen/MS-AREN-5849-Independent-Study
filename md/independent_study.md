@@ -117,11 +117,8 @@ Currently, the use of lighting for grid services is low, with and estimated 4% o
 
 The following lighting technologies are suitable for GEBs (DOE 2019c).
 
-- Advanced Sensors and Controls (controls)
 - Hybrid Daylight SSL Systems
 - SSL Displays
-
-Advanced sensors and controls improve the ability of connected lighting systems to adjust their power-consuming features such as light levels and spectrum, sensors, or network interfaces through embedded control algorithms. These technologies would enable lighting systems to interact with the grid and other building-level sensors and controllers to reduce loads and provide the grid with contingency reserves and frequency regulation. The market for these technologies is expected to grow significantly in the commercial building sector, with one estimate predicting 35% penetration by 2035 (Penning et. al. 2017)
 
 Hybrid daylight SSL systems collect and redistribute daylighting to enhance their ability to provide light to spaces. These technologies include devices that concentrate daylight through the use of mirrored lenses, beam splitters that filter nonvisible light, and light guiding and diffusing systems that redistribute light to the building (e.g. fiber optic cables). These systems are connected by photosensors and controllers that automatically modulate electric lighting in real-time. Hybrid daylight SSL systems primarily provide the grid with efficiency, but can also provide load shedding and modulation. These systems have been available for many years, but have been adopted slowly by the market due to the high cost of fiber optic cable, low light transfer efficiency, and installation difficulty. Mayhoub et. al. found that hybrid solar lighting saved 33% of electricity compared to a base case (Mayhoub, 2012). 
 
@@ -198,12 +195,15 @@ A key part of GEBs are the control systems that connect the discrete systems wit
 
 Control systems cross multiple design disciplines and thus are included in a separate section here. The following controls technologies are suitable for GEBs (DOE, 2019d).
 
+- Advanced Sensors and Controls (lighting)
 - Smart Thermostats
 - Advanced Controls for HVAC Equipment with Embedded Thermostats
 - Water Heaters with Smart Connected Controls (electric and gas)
 - Advanced Dishwasher/Clothes Washer Controls
 - Advanced Residential Refrigerator/Freezer Controls
 - Advanced Controls for Commercial Refrigeration
+
+Advanced sensors and controls improve the ability of connected lighting systems to adjust their power-consuming features such as light levels and spectrum, sensors, or network interfaces through embedded control algorithms. These technologies would enable lighting systems to interact with the grid and other building-level sensors and controllers to reduce loads and provide the grid with contingency reserves and frequency regulation. The market for these technologies is expected to grow significantly in the commercial building sector, with one estimate predicting 35% penetration by 2035 (Penning et. al. 2017)
 
 In addition to sensing the zone conditions and controlling the attached HVAC system, smart thermostats are connected to the internet, contain advanced control algorithms, and can connect to home automation systems. These features allow smart thermostats to perform more advanced controls for relatively simple HVAC systems. Smart thermostats are best suited for residential buildings and small commercial buildings where they can serve as a less complicated alternative to SHEMS and BAS. Wang et. al. estimated that smart occupancy-driven thermostats could save between 11-34% of energy use (Wang, 2020).
 
