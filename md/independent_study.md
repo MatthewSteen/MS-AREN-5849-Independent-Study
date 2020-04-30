@@ -58,52 +58,38 @@ TODO
 
 This report reviews and summarizes the current literature on the topic of GEB technologies, which to the author's knowledge is not present in the current body of literature. It also categorizes the technologies according to several criteria. These criteria include demand-side management strategies, potential to provide grid services, technology maturity, and ability to perform analysis and evaluation in whole-building simulation software.
 
-# 2. Methods and materials
+# 2. Literature Review
 
 This report reviews the current literature on the topic of GEBs in general and technologies that are suitable for GEBs specifically. It began with reviewing a series of technical reports published by the U.S. Department of Energy (DOE) in December 2019, which are largely qualitative in their findings. These reports formed the basis for a review of specific technologies to identify quantitative findings in peer-reviewed literature. The technologies are organized from a building design perspective according to design disciplines. Each technology is described briefly in the context of its ability to contribute to DSM strategies and thus provide services to the grid.
 
-## Technologies
+## 2.1 Architectural
 
-Technologies that are suitable for GEBs are organized below by design discipline. Alternatively, these could be organized based on commonalities (if any) in the literature review.
+Architectural technologies that are suitable for GEBs include systems that separate the outdoor environment from the conditioned indoor environment (collectively the building envelope). These systems can be divided into the opaque envelope (floors, roofs, walls) and windows, and further categorized as having static, dynamic, or both properties that provide grid services through demand-side management strategies. Architectural technologies affect cooling, heating, and lighting energy end uses by decreasing assembly thermal transmittance (U-factor), decreasing or increasing solar heat gain through windows, or by allowing or blocking visible light to interior spaces.
 
-### Architectural
+### 2.1.1 Static Systems
 
-[Grid-interactive Efficient Buildings Technical Report Series: Windows and Opaque Envelope](https://www1.eere.energy.gov/buildings/pdfs/75387.pdf)
+Static building envelope systems do not have dynamic or time-varying properties relying instead on inherent high performance properties that manage heat transfer, thermal bridging, and air flow (infiltration) through the system assembly. These properties can be a result of a single system component that contributes to the assembly's overall performance, such as a layer of insulation with high thermal resistance (R-value), or the result of multiple system components, such as reduced thermal bridging and air flow. Because static envelope systems do not have dynamic properties they are primarily an energy efficiency DSM strategy, although they can passively shift load by delaying peak cooling and heating loads compared to lower performing systems. In some cases, a high performance envelope (i.e., with high thermal resistance, for instance) can be detrimental to energy use by trapping heat and increasing cooling load. Static architectural systems were excluded from the literature review because they don't have dynamic properties enabling them to interact with the grid.
 
-Architectural technologies that are suitable for GEBs include systems that separate the outdoor environment from the conditioned indoor environment (collectively the building envelope). These systems can be divided into the opaque envelope (floors, roofs, walls) and windows, and further categorized as having static, dynamic, or both properties that provide grid services through demand-side management strategies. Architectural technologies affect cooling, heating, and lighting energy end uses by decreasing assembly thermal transmittance (U-factor), decreasing or increasing solar heat gain through windows, or by allowing or blocking visible light to interior spaces.  
+### 2.1.2 Dynamic Systems
 
-#### Static Systems
-
-Static building envelope systems do not have dynamic or time-varying properties relying instead on inherent high performance properties that manage heat transfer, thermal bridging, and air flow (infiltration) through the system assembly. These properties can be a result of a single system component that contributes to the assembly's overall performance, such as a layer of insulation with high thermal resistance (R-value), or the result of multiple system components, such as reduced thermal bridging and air flow. Because static envelope systems do not have dynamic properties they are primarily an energy efficiency DSM strategy, although they can passively shift load by delaying peak cooling and heating loads compared to lower performing systems. In some cases, a high performance envelope (i.e., with high thermal resistance, for instance) can be detrimental to energy use by trapping heat and increasing cooling load. 
-
-ADD EXAMPLES, CONSIDER INCLUDING RESILIENCY TERMS (PASSIVE SURVIVABILITY ETC)
-
-#### Dynamic Systems
-
-Window Systems
-
-* Dynamic Glazing
-* Automated Attachments
-* Photovoltaic Glazing
-
-Dynamic building envelope systems have properties that can be actively modified to decrease or increase their performance to achieve desired DSM strategies and grid services. Currently available dynamic envelope technologies include dynamic glazing and automated attachments. 
-
-Dynamic glazing technologies include electrochromic glazing and thermochromic glazing that change tint (solar heat gain coefficient, SHGC) allowing more or less solar radiation into the building. Electrochromic glazing has more than one tint state (SHGC) compared to non-dynamic glazing, that can be changed by applying electric voltage to an electrochromic layer. Thermochromic glazing passively responds to temperature to change its SHGC. In commercial buildings in the northern hemisphere, electrochromic glazing is estimated to reduce peak demand by 20-30% for east, south, and west thermal zones with an estimated primary energy savings of 10-20% (LBNL, 2004). 
-
-Automated attachments include exterior and interior devices that open or close to allow or block solar radiation into the building. Examples include interior devices such as blinds and shades, and exterior devices such as awnings or shutters. Tzempelikos et. al. found that interior shades controlled with a fixed incident solar radiation setpoint reduced cooling loads by 15-33% depending on the building's WWR (Tzempelikos, 2013). 
-
-Photovoltaic glazing generates electricity the same way that traditional photovoltaic modules do, but are semi-transparent or transparent allowing some portion of visible light to pass through. Thus, PV glazing acts as part of an electricity generating system and a window system. An optimized PV insulating glass unit has shown 10.7% energy savings compared to a traditional low-e IGU in whole-building energy simulations (Wang, 2016).
+Dynamic building envelope systems have properties that can be actively modified to decrease or increase their performance to achieve desired DSM strategies and grid services. These technologies can be categorized as either opaque or window systems and include the following technologies (DOE, 2019b).
 
 Opaque Systems
 
-* Tunable Thermal Conductivity Materials
-* Thermally Anisotropic Systems
-* Thermal Storage
-* Moisture Storage and Extraction
-* Variable Radiative Technologies
-* Building-Integrated Photovoltaics
+- Tunable Thermal Conductivity Materials
+- Thermally Anisotropic Systems
+- Thermal Storage
+- Moisture Storage and Extraction
+- Variable Radiative Technologies
+- Building-Integrated Photovoltaics
 
-Tunable thermal conductivity materials have thermophysical properties that can be dynamically adjusted to produce a desired thermal performance. For example, during cooling periods these materials would have high thermal transmittance (low R-value) when the outdoor temperature is lower than the indoor temperature to precool the building effectively acting like night flushing without the need for mechanical ventilation. Conversely, in the heating season these materials would have low thermal transmittance (high R-value) to minimize heat loss to the outdoors. Dynamic insulation materials (DIMs) have been found to reduce annual cooling and heating energy use in residential buildings on average by 15% and 10% respectively (Park, 2015). Total annual energy use is residential buildings could be reduced 7-42% (Menyhart, 2016). **(In these descriptions of various technologies, you can list examples of technologies based on the technical literature/journals, that is Buildings and Energy, Applied Energy, etc.)**
+Window Systems
+
+- Dynamic Glazing
+- Automated Attachments
+- Photovoltaic Glazing
+
+Tunable thermal conductivity materials have thermophysical properties that can be dynamically adjusted to produce a desired thermal performance. For example, during cooling periods these materials would have high thermal transmittance (low R-value) when the outdoor temperature is lower than the indoor temperature to precool the building effectively acting like night flushing without the need for mechanical ventilation. Conversely, in the heating season these materials would have low thermal transmittance (high R-value) to minimize heat loss to the outdoors. Dynamic insulation materials (DIMs) have been found to reduce annual cooling and heating energy use in residential buildings on average by 15% and 10% respectively (Park, 2015). Total annual energy use is residential buildings could be reduced 7-42% (Menyhart, 2016). 
 
 Thermally anisotropic systems include components and assemblies with areas of high and low thermal conductivity that allows heat to be routed through the envelope to a heat sink such as a plumbing loop. Recent experimental results have shown cooling and heating load reductions of 86% and 63% compared to a baseline wall assembly with traditional cavity insulation. Numerical simulation results have shown cooling energy savings of 11% in cooling-dominated climates and heating energy savings of 21% in heating-dominated climates (Biswas, 2019).
 
@@ -115,21 +101,25 @@ Variable radiative technologies include materials that can reject heat during th
 
 Building-integrated photovoltaics, although part of a building's electrical system, refer to PV integrated into the opaque portions of the envelope. For example, wall cladding or roof shingles. Sehar et. al. found that PV alone could reduce a building's demand during a demand response event by 16.8% (Sehar, 2016).
 
-### Electrical
+Dynamic glazing technologies include electrochromic glazing and thermochromic glazing that change tint (solar heat gain coefficient, SHGC) allowing more or less solar radiation into the building. Electrochromic glazing has more than one tint state (SHGC) compared to non-dynamic glazing, that can be changed by applying electric voltage to an electrochromic layer. Thermochromic glazing passively responds to temperature to change its SHGC. In commercial buildings in the northern hemisphere, electrochromic glazing is estimated to reduce peak demand by 20-30% for east, south, and west thermal zones with an estimated primary energy savings of 10-20% (LBNL, 2004). 
 
-[Grid-interactive Efficient Buildings Technical Report Series: Lighting and Electronics](https://www1.eere.energy.gov/buildings/pdfs/75475.pdf)
+Automated attachments include exterior and interior devices that open or close to allow or block solar radiation into the building. Examples include interior devices such as blinds and shades, and exterior devices such as awnings or shutters. Tzempelikos et. al. found that interior shades controlled with a fixed incident solar radiation setpoint reduced cooling loads by 15-33% depending on the building's WWR (Tzempelikos, 2013). 
+
+Photovoltaic glazing generates electricity the same way that traditional photovoltaic modules do, but are semi-transparent or transparent allowing some portion of visible light to pass through. Thus, PV glazing acts as part of an electricity generating system and a window system. An optimized PV insulating glass unit has shown 10.7% energy savings compared to a traditional low-e IGU in whole-building energy simulations (Wang, 2016).
+
+## 2.2 Electrical
 
 Electrical technologies that are suitable for GEBs include lighting systems, consumer electronics, and information technology (IT) equipment. 
 
-#### Lighting
+### 2.2.1 Lighting
 
-Currently, the use of lighting for grid services is low, with and estimated 4% of commercial buildings reporting demand responsive lighting in the 2012 CBECS (EIA 2012). Historically, lighting systems have not been used for demand response because they are not inherently capable of shifting their load and are generally considered a critical load in occupied spaces, i.e. for safety, productivity, and comfort so they cannot be completely turned off. The primary demand response strategy of dimming is restricted to a small range that will not compromise safety, productivity, and comfort of building occupants. Lighting is only valuable to the grid at the whole building level **(depending on the building type?!)** because the average power of a single lamp is small relative to other individual loads, therefore the commercial building sector is the most viable market for grid-responsive lighting systems. In addition to demand response, lighting systems can be used for demand-side management by reducing building peaks, which is typically accomplished by dimming to shed load. However, California's 2016 energy standard (Title 24) requires that all buildings greater than 10,000 ft2 must be capable of automatically reducing lighting power by 15% in response to a signal from the grid. 
+Currently, the use of lighting for grid services is low, with and estimated 4% of commercial buildings reporting demand responsive lighting in the 2012 CBECS (EIA 2012). Historically, lighting systems have not been used for demand response because they are not inherently capable of shifting their load and are generally considered a critical load in occupied spaces, i.e. for safety, productivity, and comfort so they cannot be completely turned off. The primary demand response strategy of dimming is restricted to a small range that will not compromise safety, productivity, and comfort of building occupants. Lighting is only valuable to the grid at the whole building level because the average power of a single lamp is small relative to other individual loads, therefore the commercial building sector is the most viable market for grid-responsive lighting systems. In addition to demand response, lighting systems can be used for demand-side management by reducing building peaks, which is typically accomplished by dimming to shed load. However, California's 2016 energy standard (Title 24) requires that all buildings greater than 10,000 ft2 must be capable of automatically reducing lighting power by 15% in response to a signal from the grid. 
 
-The following lighting technologies are suitable for GEBs according to the DOE (DOE-3 2019).
+The following lighting technologies are suitable for GEBs (DOE 2019c).
 
-1. Advanced Sensors and Controls (controls)
-2. Hybrid Daylight SSL Systems
-3. SSL Displays
+- Advanced Sensors and Controls (controls)
+- Hybrid Daylight SSL Systems
+- SSL Displays
 
 Advanced sensors and controls improve the ability of connected lighting systems to adjust their power-consuming features such as light levels and spectrum, sensors, or network interfaces through embedded control algorithms. These technologies would enable lighting systems to interact with the grid and other building-level sensors and controllers to reduce loads and provide the grid with contingency reserves and frequency regulation. The market for these technologies is expected to grow significantly in the commercial building sector, with one estimate predicting 35% penetration by 2035 (Penning et. al. 2017)
 
@@ -139,7 +129,7 @@ SSL displays are connected lighting displays that use electric lighting to repla
 
 Beyond grid services, these lighting technologies have additional benefits such as energy performance, human health, and resilience.
 
-#### Equipment
+### 2.2.2 Equipment
 
 Electronic equipment including consumer electronics and IT equipment technologies have the potential to provide grid services. These energy using devices are a subset of MELs, which represent electrical loads other than those related to core building functions such as lightnig, HVAC, and SWH (Sofos 2016). Historically, energy efficiency has focused on non-MELs loads because they have made up the largest proportion of energy use. However, as the efficiency of these end uses has improved, the proportion of energy use by MELs has increased in total energy use and percent of total (EIA 2019). 
 
@@ -147,11 +137,12 @@ Current demand response programs tend to focus on HVAC systems in commercial bui
 
 The primary market for grid-interactive electronics is large commercial office buildings and industrial data centers where a significant portion of the building's energy use is attributed to this end use.
 
-The DOE classifies electronics into the following categories (DOE-3 2019).
+The following electrical equipment technologies are suitable for GEBs (DOE, 2019c).
 
-1. Continuous-Operation Electronics
-2. Battery-Powered Electronics
-3. Electronic Displays
+- Continuous-Operation Electronics
+- Battery-Powered Electronics
+- Electronic Displays
+- Appliances
 
 Continuous-operation electronics include stationary equipment that more or less operate continuously and require a constant power supply. Examples include network equipment, stationary (desktop) computers, servers, and AV equipment. This type of electronic equipment generally uses the same amount of energy but some devices can operate in low power modes. This category of electronics has the highest relative potential to provide grid services because the equipment is constantly connected to a power supply and often operating continuously. Energy efficiency improvements offer the greatest opportunity for demand-side management by integrating low power, standby, deep sleep, or power scaling modes. Staging the operation of this equipment also has the potential to reduce building peak demand. Additional grid services could include load shedding and modulation of grid-responsive servers in data centers and offices.
 
@@ -161,36 +152,25 @@ Electronic displays include monitors that are used for signage (e.g. flight info
 
 Appliances are an additional category of electric equipment that can provide grid services (natural gas appliances are discussed in the Plumbing section). Much like consumer electronics and IT equipment, appliances are heterogeneous in load profiles and schedules. For example, some appliances operate relatively continuously (refrigerators) while others have finite cycles (dishwashers and clothes dryers). Appliances that operate continuously are more likely to benefit the grid by being able to modulate their load. Appliances with finite cycles are most suitable for load shifting because their load can be easily moved out of peak periods. These types of appliances have traditionally been targets for DR programs. For clothes dryers, technologies that allow for modulating or staging the heating cycle and delayed start options could be used to provide grid services for efficiency and load shifting respectively. Additionally, heat pump clothes dryers offer additional efficiency improvements over traditional electric resistance heating and can also be modulated when they incorporate variable speed compressors. Modulating the heating element allows the moisture removal rate to to more closely match the heat input rate, which reduces overdrying and improves efficiency. Longer cycle times with lower temperature drying allows for better efficiency along with load shifting and some load shedding. The highest grid service potential is modulation because electric resistance appliances can respond very quickly (seconds) without damage.
 
-### Mechanical
+## 2.3 Mechanical
 
-[Grid-interactive Efficient Buildings Technical Report Series: HVAC, Water Heating, Appliances and Refrigeration](https://www1.eere.energy.gov/buildings/pdfs/75473.pdf)
+Mechanical systems comprise the heating, ventilating, air conditioning (HVAC), and refrigeration (HVACR) systems in buildings, which often make up a large portion of energy use in commercial buildings. The following HVACR technologies are suitable for GEBs (DOE, 2019d).
 
-TODO - add qualitative potential to provide grid services for each considered technology
+- Separate Sensible and Latent Space Conditioning
+- Liquid Desiccant Thermal Energy Storage
+- Hybrid Evaporative Precooling for AC
+- Dual-Fuel HVAC Systems
+- Thermal Energy Storage
+- Modulating Capacity Vapor Compression
+- Non-Vapor-Compression Materials and Systems
 
-Mechanical systems comprise the heating, ventilating, air conditioning, and refrigeration (HVACR) systems in buildings, which often make up a large portion of energy use in commercial buildings. 
+Traditional heating and air conditioning systems couple sensible (temperature) and latent (moisture) control into the same component, e.g. a vapor-compression (direct expansion, DX) cooling system. These systems often have enlarged evaporators, operate at a lower temperature, or extend the operating cycle to remove moisture from the air stream, which can overcool the supply air resulting in the need to reheat the air before it is delivered to the space. Overcooling and reheating consequently increase energy and demand during the cooling season. Decoupled sensible and latent air conditioning systems using liquid or solid desiccants, membrane dehumidifiers, and other technologies can remove moisture from the air without changing its temperature. Independently controlling sensible and latent cooling stages could provide grid flexibility by shifting from less efficient sensible cooling to more efficient latent cooling during peak periods. Decoupled sensible and latent space conditioning has high potential to provide grid services by primarily benefiting efficiency, but it can also provide load shed and shift (DOE, 2019d). Research evaluating this technology in packaged terminal air conditioners suggests that efficiency savings of 30% (Alabdulkarem, 2015). Kim et. al. found that liquid desiccant systems incorporated with evaporatively-cooled DOAS saved 51% and 68% of annual energy use compared to traditional VAV systems (2013 and 2014 respectively).
 
-The DOE has identified the following HVACR strategies.
-
-1. ~~Smart Thermostats (controls) **As we discussed, include all potential suitable technologies for any building type.**~~
-2. Separate Sensible and Latent Space Conditioning
-3. Liquid Desiccant Thermal Energy Storage
-4. ~~Advanced Controls for HVAC Equipment with Embedded Thermostats (controls)~~
-5. Hybrid Evaporative Precooling for AC
-6. Dual-Fuel HVAC Systems
-
-Traditional heating and air conditioning systems couple sensible (temperature) and latent (moisture) control into the same component, e.g. a vapor-compression (direct expansion, DX) cooling system. These systems often have enlarged evaporators, operate at a lower temperature, or extend the operating cycle to remove moisture from the air stream, which can overcool the supply air resulting in the need to reheat the air before it is delivered to the space. Overcooling and reheating consequently increase energy and demand during the cooling season. Decoupled sensible and latent air conditioning systems using liquid or solid desiccants, membrane dehumidifiers, and other technologies can remove moisture from the air without changing its temperature. Independently controlling sensible and latent cooling stages could provide grid flexibility by shifting from less efficient sensible cooling to more efficient latent cooling during peak periods. Decoupled sensible and latent space conditioning has high potential to provide grid services by primarily benefiting efficiency, but it can also provide load shed and shift (DOE-4, 2019). Research evaluating this technology in packaged terminal air conditioners suggests that efficiency savings of 30% (Alabdulkarem, 2015). Kim et. al. found that liquid desiccant systems incorporated with evaporatively-cooled DOAS saved 51% and 68% of annual energy use compared to traditional VAV systems (2013 and 2014 respectively).
-
-Liquid desiccant thermal energy storage (TES) use a chemical that absorb moisture from indoor air and then rejects it to the outdoors through a heating cycle known as regeneration. This type of TES stores energy chemically and does not require insulated storage tanks because liquid desiccants can be stored at ambient temperatures. The efficiency of these systems is not driven by round-trip efficiency losses as with other energy storage technologies (thermal, battery, etc.), rather it is a function of the heating needed for the regeneration process. Solar thermal coupled with this technology can be an effective way to regenerate the liquid desiccant without the need for additional energy input because peak solar radiation and latent cooling often occur coincidentally during the day. This technology has high potential to provide grid services (DOE-4, 2019) by providing load shifting during periods of high demand. Load shed and efficiency have less potential because the desiccant will always need to be recharged at a later time. Efficiency can be improved by using renewable energy to regenerate the desiccant.
+Liquid desiccant thermal energy storage (TES) use a chemical that absorb moisture from indoor air and then rejects it to the outdoors through a heating cycle known as regeneration. This type of TES stores energy chemically and does not require insulated storage tanks because liquid desiccants can be stored at ambient temperatures. The efficiency of these systems is not driven by round-trip efficiency losses as with other energy storage technologies (thermal, battery, etc.), rather it is a function of the heating needed for the regeneration process. Solar thermal coupled with this technology can be an effective way to regenerate the liquid desiccant without the need for additional energy input because peak solar radiation and latent cooling often occur coincidentally during the day. This technology has high potential to provide grid services (DOE, 2019d) by providing load shifting during periods of high demand. Load shed and efficiency have less potential because the desiccant will always need to be recharged at a later time. Efficiency can be improved by using renewable energy to regenerate the desiccant.
 
 Hybrid evaporative precooling for AC combines evaporative cooling with vapor-compression cooling to increase efficiency in dry climates by shifting cooling from the high intensity vapor-compression cycle to a lower intensity evaporative process, thus reducing peak cooling demand. Evaporative modules can be packaged with vapor-compression systems or added to existing systems during a retrofit. This technology has low potential to provide grid services, primarily through efficiency by improving the cooling system's COP. Delfani et. al. found cooling load savings up to 75% and annual energy savings of 55% for indirect systems that pre-cool air for traditional mechanical cooling in Iran (Delfani 2010).
 
-Dual-fuel HVAC systems temporarily switch fuels during heating or cooling to provide value to the grid through curtailment. Grid value is provided when the lower cost fuel is used most throughout the year and the more expensive fuel is only used during a grid event. For example, a heat pump system that switches from electric heat pump heating to natural gas heating during a winter time electric peak to shift demand to the natural gas grid. Absorption cooling, which uses a heat source to provide cooling, can also be used to shift cooling fuel from electricity to natural gas using gas-absorption cooling. Currently, the low cost of natural gas makes using it for electric curtailment infeasible. However, in areas where costly delivered fuel is used for heating (e.g. fuel oil or propane), using it to curtail electric heating can make more sense, especially since the delivered fuel and electricity markets are not interactive like the natural gas and electricity markets are. This technology has low potential to provide grid services by shedding load because the opportunity is infrequent, mostly during winter peak periods, and most applicable to switching from heat pump heating to natural gas or delivered fuel heating. Low natural gas prices is a significant hindrance to adoption (DOE-4, 2019).
-
-The DOE has also identified the following "cross-cutting" technologies that provide demand flexibility across more than one HVACR end use. 
-
-1. Thermal Energy Storage
-2. Modulating Capacity Vapor Compression
-3. Non-Vapor-Compression Materials and Systems
+Dual-fuel HVAC systems temporarily switch fuels during heating or cooling to provide value to the grid through curtailment. Grid value is provided when the lower cost fuel is used most throughout the year and the more expensive fuel is only used during a grid event. For example, a heat pump system that switches from electric heat pump heating to natural gas heating during a winter time electric peak to shift demand to the natural gas grid. Absorption cooling, which uses a heat source to provide cooling, can also be used to shift cooling fuel from electricity to natural gas using gas-absorption cooling. Currently, the low cost of natural gas makes using it for electric curtailment infeasible. However, in areas where costly delivered fuel is used for heating (e.g. fuel oil or propane), using it to curtail electric heating can make more sense, especially since the delivered fuel and electricity markets are not interactive like the natural gas and electricity markets are. This technology has low potential to provide grid services by shedding load because the opportunity is infrequent, mostly during winter peak periods, and most applicable to switching from heat pump heating to natural gas or delivered fuel heating. Low natural gas prices is a significant hindrance to adoption (DOE, 2019d).
 
 Thermal energy storage ranges from passive systems that use additional thermal mass or insulation in a building's envelope to active systems that rely on phase change to store and release energy in an optimized sequence. These systems can be used for cooling-only, heating-only, or both cooling and heating. Active TES systems cool or heat materials to store energy during low cost periods so that it can be used during high cost periods with less energy input. The round-trip efficiency of these systems is typically around 80% because of thermal losses to the surroundings (Guess 2018; Energy Storage Association 2019). This technology has high potential to provide grid services primarily through daily load shifting to reduce demand charges. Load shedding is possible when the shift in energy use allows equipment to operate at a higher efficiency, e.g. higher EER at night.
 
@@ -198,45 +178,38 @@ Modulating capacity vapor compression systems can be used in ACs, heat pumps, HP
 
 Non-vapor-compression materials and systems include several space cooling and refrigeration technologies that use specialized materials or alternative systems designs rather than the traditional VC cycle. These include solid-state NVC (define?) technologies such as thermoelectric, magnetocaloric, and electrocaloric systems that produce useful temperature differences when the solid-state material is activated by electrical input. Other technologies include membrane, thermoelastic, Stirling, liquid desiccant, and thermoacoustic systems that use electrical or thermal input to change the property (e.g. phase) of a material (e.g. working fluid) to pump heat. These technologies could offer grid benefits by modulating capacity, separating sensible and latent cooling, and thermal storage. This technology has high potential to offer grid services primarily through efficiency and load shifting. However, load shedding and modulation are possible with variable capacity control. Cheon et. al. found that a thermoelectric heat pump in a DOAS increased energy use by 23% compared to a reference system (Cheon 2019) while Lim et. al. found that a thermoelectric radiant system with a DOAS reduced annual energy consumption by 41% compared to a traditional VAV system (Lim, 2018).
 
-### Plumbing - interesting that the DOE report doesn't mention tankless or HPWHs for efficiency
+## 2.4 Plumbing
 
-Plumbing systems suitable for GEBs primarily include SWH. However, the plumbing discipline is also responsible for designing piping for natural gas systems, which will be discussed in this section. Water heaters generally fall into two categories; storage and tankless. Tankless water heaters have limited potential to provide grid services because they are designed to operate on-demand and thus are not able to shift or shed load. In contrast, storage water heaters are well suited for GEBs because TES is part of their fundamental design, which allows them to decouple power demand from energy consumption and provide load shifting away from peak periods.
+Plumbing systems suitable for GEBs primarily include SWH. However, the plumbing discipline is also responsible for designing piping for natural gas systems, which will be discussed in this section. Water heaters generally fall into two categories; storage and tankless. Tankless water heaters have limited potential to provide grid services because they are designed to operate on-demand and thus are not able to shift or shed load. In contrast, storage water heaters are well suited for GEBs because TES is part of their fundamental design, which allows them to decouple power demand from energy consumption and provide load shifting away from peak periods. The following plumbing technologies are suitable for GEBs (DOE, 2019d).
 
-The DOE identifies the following technology for GEBs.
-
-1. Dual-Fuel Water Heater
+- Dual-Fuel Water Heater
+- Modulating, Advanced Clothes Dryers (gas)
+- Building-Scale CHP
 
 Dual-fuel water heaters temporarily switch fuels during heating to provide value to the grid through curtailment. Like dual-fuel HVAC systems, grid value is provided when the lower cost fuel is used most throughout the year and the more expensive fuel is only used during a grid event. Markets or regions that use electricity and delivered fuels have the highest potential for these systems because delivered fuel costs are generally higher than electricity. This technology has low potential to provide grid services because it can only provide load shed but viable markets are limited due to the low cost of natural gas compared to electricity and regional differences in delivered fuel use. Given financial incentives this technology can provide load shedding for infrequent emergencies, but the electric grid will not benefit if natural gas costs less. Park et. al. found energy cost savings of 4% in one market for a hybrid heat pump gas-fired water heater (Park, 2014).
 
 Similar to electrical appliances, natural gas appliances can offer grid services suitable for GEBs. Specifically, clothes dryers that use natural gas could incorporate modulating or staged heating to improve efficiency, use a delayed start to shift load, or used connected technology to provide load shedding. 
 
-The DOE identifies the following natural gas technologies.
-
-1. Building-Scale CHP
-
 Combined heat and power (CHP), which combines electricity production with waste heat capture and use, can provide grid flexibility by serving on-site electric loads or exporting electricity to the grid while also serving on-site thermal loads (heating directly or cooling through absorption technology). These systems are often used by large buildings and campuses to reduce operating costs by avoiding high consumption and demand charges of grid-tied electricity. Combined heat and power systems can also be used with TES to shift loads to off-peak periods. Operators of these systems can also adjust their dispatch schedule to take advantage of day-ahead and real-time electricity pricing in some markets as well as participate in capacity, energy, and DR markets. This technology has high potential to provide grid services through efficiency by producing electricity on-site and avoiding losses, load shedding if able to increase production during a grid event, and load shifting when combined with TES.
 
-### Controls
+## 2.5 Controls
 
 A key part of GEBs are the control systems that connect the discrete systems within a building and allow for "smart" operation through sensors, actuators, and controllers between systems and with the grid. Advanced control systems have the potential to reduce site energy consumption by 29% in commercial buildings through the use of high performance sequences of operation, occupancy-based optimization, and automated fault detection and diagnostics (Fernandez et. al., 2017). Additionally, advanced control systems could affect 10-20% of peak loads in commercial buildings (Kiliccote et. al., 2016). 
 
-Control systems cross multiple design disciplines and thus are included in a separate section here. The DOE identifies the following technologies related to controls.
+Control systems cross multiple design disciplines and thus are included in a separate section here. The following controls technologies are suitable for GEBs (DOE, 2019d).
 
-* Smart Thermostats
-* Advanced Controls for HVAC Equipment with Embedded Thermostats
-* Water Heaters with Smart Connected Controls (electric and gas)
-* ~~Modulating, Advanced Clothes Dryers (electric and gas)~~ TODO discussed above
-* Advanced Dishwasher/Clothes Washer Controls
-* Advanced Residential Refrigerator/Freezer Controls
-* Advanced Controls for Commercial Refrigeration
+- Smart Thermostats
+- Advanced Controls for HVAC Equipment with Embedded Thermostats
+- Water Heaters with Smart Connected Controls (electric and gas)
+- Advanced Dishwasher/Clothes Washer Controls
+- Advanced Residential Refrigerator/Freezer Controls
+- Advanced Controls for Commercial Refrigeration
 
 In addition to sensing the zone conditions and controlling the attached HVAC system, smart thermostats are connected to the internet, contain advanced control algorithms, and can connect to home automation systems. These features allow smart thermostats to perform more advanced controls for relatively simple HVAC systems. Smart thermostats are best suited for residential buildings and small commercial buildings where they can serve as a less complicated alternative to SHEMS and BAS. Wang et. al. estimated that smart occupancy-driven thermostats could save between 11-34% of energy use (Wang, 2020).
 
 Advanced controls for HVAC equipment with embedded thermostats (HVAC-ET) include HVAC equipment with internal built-in sensors and control algorithms rather than external wall-mounted thermostats. Embedded thermostats are included in window ACs, portable ACs, PTACs, PTHPs, and MSHPs where Wi-Fi is used to communicate directly with grid operators or utilities for demand response programs. These controls allow the compressor to be temporarily turned off or the setpoint to be changed with user overrides.
 
 Smart water heaters include internal or external controls that take advantage of the equipment's inherent TES capability. Preheating the tank during off-peak periods allows for water draws with reduced or no power use during on-peak periods, shifting the water heater's load to benefit the grid without the loss of functionality to the consumer. Load shedding can be accomplished by turning the water heater off for emergency curtailment. Frequency regulation is also possible with water heaters that use electric resistance heating (solely or HPWH) and that allow direct utility control for the fast response time required for frequency regulation. However, frequency regulation may reduce the life of VC equipment. Pourmousavi et. al found that controlling electric water heaters with time-of-use (customer) and balancing reserve (utility) signals reduced on-peak energy use by 95% (Pourmousavi, 2014).
-
-Modulating clothes dryers...
 
 Clothes washers and dishwashers with advanced controls to delay or schedule their discrete cycles could shift loads to off-peak periods but require consideration of user preferences. For example, leaving wet clothes in a washing machine too long could cause concerns, but combined clothes washer-dryer appliances is one technology that could alleviate concerns. This technology has medium potential to provide load shifting. Finn et. al. found peak time load reduction between 28-70% for residential dishwashers under a control algorithm to optimize cost, wind generation, and carbon emissions (Finn, 2013). Perez et. al. found that smart scheduling of washing machines and clothes dryers through model predictive control reduced peak electric demand by 5% (Perez, 2016). 
 
