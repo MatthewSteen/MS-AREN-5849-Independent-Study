@@ -6,11 +6,11 @@ In the United States, the electricity grid continues to experience rapid changes
 
 Fundamentally, grid operators must balance electricity supply with demand. In order for the operators to have enough generation capacity in reserve to meet periods of peak demand, utilities need to build new generation capacity requiring often costly and long-term investments. To defer the construction of new generation capacity, utilities often implement programs that reduce, shed, or shift load through demand-side management, energy efficiency, or demand response programs. Buildings, which collectively consumed 63% of delivered electricity in the U.S. in 2019 (15% residential, 12% commercial, 35% industrial, EIA 2020), have the potential to offer grid services through implementation of demand-side management strategies that enhance electrical load flexibility. Grid-interactive efficient buildings (GEBs) that use existing and new technologies to provide demand flexibility have recently emerged as a way to balance the grid's supply and demand and a source of value through avoided electricity system costs.
 
-This report reviews and summarizes the current literature on the topic of GEB technologies and categorizes them according to the several criteria. These criteria include demand-side management strategies, potential to provide grid services, technology maturity, and ability to perform analysis in whole-building simulation software.
+This report reviews and summarizes the current literature on the topic of GEB technologies, which to the author's knowledge is not present in the current body of literature. It also categorizes the technologies according to several criteria. These criteria include demand-side management strategies, potential to provide grid services, technology maturity, and ability to perform analysis and evaluation in whole-building simulation software.
 
-# Methods and materials
+# 2. Methods and materials
 
-[Grid-interactive Efficient Buildings Technical Report Series: Overview of Research Challenges and Gaps](https://www1.eere.energy.gov/buildings/pdfs/75470.pdf)
+This report reviews the current literature on the topic of GEBs in general and technologies that are suitable for GEBs specifically. It began with reviewing a series of technical reports published by the U.S. Department of Energy (DOE) in December 2019, which are largely qualitative in their findings. These reports formed the basis for a review of specific technologies to identify quantitative findings in peer-reviewed literature. The technologies are organized from a building design perspective according to design disciplines. Each technology is described briefly in the context of its ability to contribute to DSM strategies and thus provide services to the grid.
 
 ## Demand-Side Management
 
