@@ -219,7 +219,11 @@ Similar to residential refrigerators, commercial refrigeration equipment could b
 
 # 3. Results and Discussion
 
+
+
 ## 3.1 Architectural
+
+**Table #. Summary of Architectural Technologies**
 
 | Technology | DOE Potential | Mature/Available | BPS Software | 
 | :- | :-: | :-: | :-: |
@@ -236,6 +240,8 @@ Similar to residential refrigerators, commercial refrigeration equipment could b
 
 ## 3.2 Electrical
 
+**Table #. Summary of Electrical Technologies**
+
 | Technology | DOE Potential | Mature/Available | BPS Software | 
 | :- | :-: | :-: | :-: |
 | Hybrid Daylight SSL Systems | Medium | &#9673; | &#9675; | 
@@ -247,6 +253,8 @@ Similar to residential refrigerators, commercial refrigeration equipment could b
 
 
 ## 3.3 Mechanical
+
+**Table #. Summary of Mechanical Technologies**
 
 | Technology | DOE Potential | Mature/Available | BPS Software | 
 | :- | :-: | :-: | :-: |
@@ -261,6 +269,8 @@ Similar to residential refrigerators, commercial refrigeration equipment could b
 
 ## 3.4 Plumbing
 
+**Table #. Summary of Plumbing Technologies**
+
 | Technology | DOE Potential | Mature/Available | BPS Software | 
 | :- | :-: | :-: | :-: |
 | Dual-Fuel Water Heater | Low | &#9675; | &#9673; | 
@@ -269,6 +279,8 @@ Similar to residential refrigerators, commercial refrigeration equipment could b
 
 
 ## 3.5 Controls
+
+**Table #. Summary of Controls Technologies**
 
 | Technology | DOE Potential | Mature/Available | BPS Software | 
 | :- | :-: | :-: | :-: |
