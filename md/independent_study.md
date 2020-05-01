@@ -219,11 +219,13 @@ Similar to residential refrigerators, commercial refrigeration equipment could b
 
 # 3. Results and Discussion
 
-
+The technologies that were researched in the literature review were categorized according to several criteria with the goal of identifying those that have high potential for providing grid services, are mature and available in the marketplace, and finally are capable of being analyzed in BPS software. These categories are largely qualitative, but may form the basis for quantitative analysis using BPS software or other means. 
 
 ## 3.1 Architectural
 
-**Table #. Summary of Architectural Technologies**
+The architectural technologies that were reviewed in this report are summarized in Table 1 below. Of the nine technologies, thermal storage, dynamic glazing, and automated attachments have the highest potential to provide grid services with market-ready products that can be evaluated in BPS software. 
+
+**Table 1. Summary of Architectural Technologies**
 
 | Technology | DOE Potential | Mature/Available | BPS Software | 
 | :- | :-: | :-: | :-: |
@@ -237,10 +239,11 @@ Similar to residential refrigerators, commercial refrigeration equipment could b
 | Automated Attachments | High | &#9673; | &#9673; | 
 | Photovoltaic Glazing | Medium | &#9673; | &#9673; | 
 
-
 ## 3.2 Electrical
 
-**Table #. Summary of Electrical Technologies**
+The electrical technologies that were reviewed in this report are summarized in Table 2 below. Of the six technologies, continuous-operation electronics have the highest potential to provide grid services with market-ready products that can be evaluated in BPS software.
+
+**Table 2. Summary of Electrical Technologies**
 
 | Technology | DOE Potential | Mature/Available | BPS Software | 
 | :- | :-: | :-: | :-: |
@@ -251,10 +254,11 @@ Similar to residential refrigerators, commercial refrigeration equipment could b
 | Electronic Displays | Low | &#9673; | &#9673; | 
 | Modulating, Advanced Clothes Dryers (electric) | Medium | &#9673; | &#9673; | 
 
-
 ## 3.3 Mechanical
 
-**Table #. Summary of Mechanical Technologies**
+The electrical technologies that were reviewed in this report are summarized in Table 3 below. Of the seven technologies, separate sensible and latent space conditioning and TES have the highest potential to provide grid services with market-ready products that can be evaluated in BPS software. 
+
+**Table 3. Summary of Mechanical Technologies**
 
 | Technology | DOE Potential | Mature/Available | BPS Software | 
 | :- | :-: | :-: | :-: |
@@ -266,10 +270,11 @@ Similar to residential refrigerators, commercial refrigeration equipment could b
 | Modulating Capacity Vapor Compression | Medium | &#9673; | &#9673; | 
 | Non-Vapor-Compression Materials and Systems | High | &#9675; | &#9675; | 
 
-
 ## 3.4 Plumbing
 
-**Table #. Summary of Plumbing Technologies**
+The plumbing technologies that were reviewed in this report are summarized in Table 4 below. Of the three technologies, building-scale CHP has the highest potential to provide grid services with market-ready products that can be evaluated in BPS software.
+
+**Table 4. Summary of Plumbing Technologies**
 
 | Technology | DOE Potential | Mature/Available | BPS Software | 
 | :- | :-: | :-: | :-: |
@@ -277,10 +282,11 @@ Similar to residential refrigerators, commercial refrigeration equipment could b
 | Modulating, Advanced Clothes Dryers (gas) | Medium | &#9673; | &#9673; | 
 | Building-Scale CHP | High | &#9673; | &#9673; | 
 
-
 ## 3.5 Controls
 
-**Table #. Summary of Controls Technologies**
+The controls technologies that were reviewed in this report are summarized in Table 5 below. Of the seven technologies, advanced sensors and controls for lighting, smart thermostats, and water heaters with smart connected controls (electric and gas) have the highest potential to provide grid services with market-ready products that can be evaluated in BPS software.
+
+**Table 5. Summary of Controls Technologies**
 
 | Technology | DOE Potential | Mature/Available | BPS Software | 
 | :- | :-: | :-: | :-: |
@@ -291,7 +297,6 @@ Similar to residential refrigerators, commercial refrigeration equipment could b
 | Advanced Dishwasher/Clothes Washer Controls | Medium | &#9673; | &#9673; | 
 | Advanced Residential Refrigerator/Freezer Controls | Medium | &#9673; | &#9673; | 
 | Advanced Controls for Commercial Refrigeration | Medium | &#9675; | &#9673; | 
-
 
 # Conclusions
 
