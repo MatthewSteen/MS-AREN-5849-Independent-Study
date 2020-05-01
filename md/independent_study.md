@@ -6,7 +6,20 @@ In the United States, the electricity grid continues to experience rapid changes
 
 Fundamentally, grid operators must balance electricity supply with demand. In order for the operators to have enough generation capacity in reserve to meet periods of peak demand, utilities need to build new generation capacity requiring often costly and long-term investments. To defer the construction of new generation capacity, utilities often implement programs that reduce, shed, or shift load through demand-side management, energy efficiency, or demand response programs. Buildings, which collectively consumed 63% of delivered electricity in the U.S. in 2019 (15% residential, 12% commercial, 35% industrial, EIA 2020), have the potential to offer grid services through implementation of demand-side management strategies that enhance electrical load flexibility. Grid-interactive efficient buildings (GEBs) that use existing and new technologies to provide demand flexibility have recently emerged as a way to balance the grid's supply and demand and a source of value through avoided electricity system costs.
 
-## Demand-Side Management
+This report reviews and summarizes the current literature on the topic of GEB technologies, which to the author's knowledge is not present in the current body of literature. It also categorizes the technologies according to several criteria. These criteria include demand-side management strategies, potential to provide grid services, technology maturity, and ability to perform analysis and evaluation in whole-building simulation software.
+
+# 2. Background
+
+The DOE defines a GEB as an energy efficient building that uses smart technologies and on-site DERs to provide demand flexibility while co-optimizing for energy cost, grid services, and occupant needs and preferences, in a continuous and integrated way (DOE, 2019a). DOE characterizes GEBs further as having four general characteristics.
+
+- Efficient
+- Connected
+- Smart
+- Flexible
+
+First, GEBs reduce demand on the grid by using less energy through efficiency. Second, they are connected allowing two-way communication with the grid by sending and receiving signals to respond to time-dependent needs. Third, GEBs are smart by using sensors and controls that allow the co-optimization of cost functions from the perspective of the building owner, occupants, and grid through the use of analytics. Finally, they are flexible allowing loads to be shaped dynamically. These characteristics are facilitated by capabilities at the component level and system level where individual components can monitor and send information about their status and receive control commands to shed, shift, or modulate loads from the building's control system.
+
+## 2.1 Demand-Side Management
 
 The DOE defines the following DSM strategies for buildings that can be implemented to manage load on the grid.
 
@@ -18,10 +31,6 @@ The DOE defines the following DSM strategies for buildings that can be implement
 
 Efficiency is a reduction in energy use while providing the same or improved level of energy service(s). Graphically **(it would be useful  to add graphs to illustrate each strategy.You may be more creative than the grapgs shown in DOE reports?!)**, efficiency is represented by a y-axis shift downward. Load shed is the ability of a building to reduce electricity use during a short period, which typically occurs during times of peak demand or emergencies and on short notice. Load shift is the ability to change the timing of electricity use, which is graphically represented by flattening the load curve. Modulation is the ability to balance real power supply with demand or the ability to balance reactive power draw with supply...
 Generation is the ability to produce electricity for consumption on-site or to dispatch electricity to the grid in response to a signal from the grid operator. For the purposes of GEBs, the DOE identifies load shed, load shift, and modulation as demand flexibility strategies.
-
-## Grid Services
-
-Grid services provide value through avoided electricity system costs by supporting the generation, transmission, or distribution of electricity. The potential value of a DER can be quantified by estimating the avoided cost of acquiring the next least expensive energy resource that provides comparable grid services. Examples of current mature demand-side resources are energy efficiency and demand response. 
 
 ### Energy Efficiency
 
@@ -35,42 +44,31 @@ In contrast to energy efficiency, which focusses on reducing energy consumption,
 
 Demand response can be classified into two types, dispatchable and nondispatchable, depending on who initiates the response to a peak demand event. Dispatchable demand response is initiated by the utility, grid operator, or third-party aggregator to directly control building systems to reduce demand during a peak event. Nondispatchable demand response is initiated at the building in response to price signals. **Again some specific programs and strategies would be useful to list as examples.**
 
+## 2.2 Grid Services
+
+Grid services provide value through avoided electricity system costs by supporting the generation, transmission, or distribution of electricity. The potential value of a DER can be quantified by estimating the avoided cost of acquiring the next least expensive energy resource that provides comparable grid services. Examples of current mature demand-side resources are energy efficiency and demand response. 
+
 ## Grid Services Potential
 
 TODO
-
-## Grid-Interactive Efficient Buildings
-
-### Characteristics
-
-The DOE defines a GEB as "an energy efficient building that uses smart technologies and on-site DERs to provide demand flexibility while co-optimizing for energy cost, grid services, and occupant needs and preferences, in a continuous and integrated way". DOE characterizes GEBs further as having four general characteristics.
-
-1. Efficient
-2. Connected
-3. Smart
-4. Flexible
-
-First, GEBs reduce demand on the grid by using less energy through efficiency. Second, they are connected allowing two-way communication with the grid by sending and receiving signals to respond to time-dependent needs. Third, GEBs are smart by using sensors and controls that allow the co-optimization of cost functions from the perspective of the building owner, occupants, and grid through the use of analytics. Finally, they are flexible allowing loads to be shaped dynamically. These characteristics are facilitated by capabilities at the component level and system level where individual components can monitor and send information about their status and receive control commands to shed, shift, or modulate loads from the building's control system.
 
 ### Operational Strategies
 
 TODO
 
-This report reviews and summarizes the current literature on the topic of GEB technologies, which to the author's knowledge is not present in the current body of literature. It also categorizes the technologies according to several criteria. These criteria include demand-side management strategies, potential to provide grid services, technology maturity, and ability to perform analysis and evaluation in whole-building simulation software.
-
-# 2. Literature Review
+# 3. Literature Review
 
 This report reviews the current literature on the topic of GEBs in general and technologies that are suitable for GEBs specifically. It began with reviewing a series of technical reports published by the U.S. Department of Energy (DOE) in December 2019, which are largely qualitative in their findings. These reports formed the basis for a review of specific technologies to identify quantitative findings in peer-reviewed literature. The technologies are organized from a building design perspective according to design disciplines. Each technology is described briefly in the context of its ability to contribute to DSM strategies and thus provide services to the grid.
 
-## 2.1 Architectural
+## 3.1 Architectural
 
 Architectural technologies that are suitable for GEBs include systems that separate the outdoor environment from the conditioned indoor environment (collectively the building envelope). These systems can be divided into the opaque envelope (floors, roofs, walls) and windows, and further categorized as having static, dynamic, or both properties that provide grid services through demand-side management strategies. Architectural technologies affect cooling, heating, and lighting energy end uses by decreasing assembly thermal transmittance (U-factor), decreasing or increasing solar heat gain through windows, or by allowing or blocking visible light to interior spaces.
 
-### 2.1.1 Static Systems
+### 3.1.1 Static Systems
 
 Static building envelope systems do not have dynamic or time-varying properties relying instead on inherent high performance properties that manage heat transfer, thermal bridging, and air flow (infiltration) through the system assembly. These properties can be a result of a single system component that contributes to the assembly's overall performance, such as a layer of insulation with high thermal resistance (R-value), or the result of multiple system components, such as reduced thermal bridging and air flow. Because static envelope systems do not have dynamic properties they are primarily an energy efficiency DSM strategy, although they can passively shift load by delaying peak cooling and heating loads compared to lower performing systems. In some cases, a high performance envelope (i.e., with high thermal resistance, for instance) can be detrimental to energy use by trapping heat and increasing cooling load. Static architectural systems were excluded from the literature review because they don't have dynamic properties enabling them to interact with the grid.
 
-### 2.1.2 Dynamic Systems
+### 3.1.2 Dynamic Systems
 
 Dynamic building envelope systems have properties that can be actively modified to decrease or increase their performance to achieve desired DSM strategies and grid services. These technologies can be categorized as either opaque or window systems and include the following technologies (DOE, 2019b).
 
@@ -107,11 +105,11 @@ Automated attachments include exterior and interior devices that open or close t
 
 Photovoltaic glazing generates electricity the same way that traditional photovoltaic modules do, but are semi-transparent or transparent allowing some portion of visible light to pass through. Thus, PV glazing acts as part of an electricity generating system and a window system. An optimized PV insulating glass unit has shown 10.7% energy savings compared to a traditional low-e IGU in whole-building energy simulations (Wang, 2016).
 
-## 2.2 Electrical
+## 3.2 Electrical
 
 Electrical technologies that are suitable for GEBs include lighting systems, consumer electronics, and information technology (IT) equipment. 
 
-### 2.2.1 Lighting
+### 3.2.1 Lighting
 
 Currently, the use of lighting for grid services is low, with and estimated 4% of commercial buildings reporting demand responsive lighting in the 2012 CBECS (EIA 2012). Historically, lighting systems have not been used for demand response because they are not inherently capable of shifting their load and are generally considered a critical load in occupied spaces, i.e. for safety, productivity, and comfort so they cannot be completely turned off. The primary demand response strategy of dimming is restricted to a small range that will not compromise safety, productivity, and comfort of building occupants. Lighting is only valuable to the grid at the whole building level because the average power of a single lamp is small relative to other individual loads, therefore the commercial building sector is the most viable market for grid-responsive lighting systems. In addition to demand response, lighting systems can be used for demand-side management by reducing building peaks, which is typically accomplished by dimming to shed load. However, California's 2016 energy standard (Title 24) requires that all buildings greater than 10,000 ft2 must be capable of automatically reducing lighting power by 15% in response to a signal from the grid. 
 
@@ -126,7 +124,7 @@ SSL displays are connected lighting displays that use electric lighting to repla
 
 Beyond grid services, these lighting technologies have additional benefits such as energy performance, human health, and resilience.
 
-### 2.2.2 Equipment
+### 3.2.2 Equipment
 
 Electronic equipment including consumer electronics and IT equipment technologies have the potential to provide grid services. These energy using devices are a subset of MELs, which represent electrical loads other than those related to core building functions such as lightnig, HVAC, and SWH (Sofos 2016). Historically, energy efficiency has focused on non-MELs loads because they have made up the largest proportion of energy use. However, as the efficiency of these end uses has improved, the proportion of energy use by MELs has increased in total energy use and percent of total (EIA 2019). 
 
@@ -149,7 +147,7 @@ Electronic displays include monitors that are used for signage (e.g. flight info
 
 Appliances are an additional category of electric equipment that can provide grid services (natural gas appliances are discussed in the Plumbing section). Much like consumer electronics and IT equipment, appliances are heterogeneous in load profiles and schedules. For example, some appliances operate relatively continuously (refrigerators) while others have finite cycles (dishwashers and clothes dryers). Appliances that operate continuously are more likely to benefit the grid by being able to modulate their load. Appliances with finite cycles are most suitable for load shifting because their load can be easily moved out of peak periods. These types of appliances have traditionally been targets for DR programs. For clothes dryers, technologies that allow for modulating or staging the heating cycle and delayed start options could be used to provide grid services for efficiency and load shifting respectively. Additionally, heat pump clothes dryers offer additional efficiency improvements over traditional electric resistance heating and can also be modulated when they incorporate variable speed compressors. Modulating the heating element allows the moisture removal rate to to more closely match the heat input rate, which reduces overdrying and improves efficiency. Longer cycle times with lower temperature drying allows for better efficiency along with load shifting and some load shedding. The highest grid service potential is modulation because electric resistance appliances can respond very quickly (seconds) without damage.
 
-## 2.3 Mechanical
+## 3.3 Mechanical
 
 Mechanical systems comprise the heating, ventilating, air conditioning (HVAC), and refrigeration (HVACR) systems in buildings, which often make up a large portion of energy use in commercial buildings. The following HVACR technologies are suitable for GEBs (DOE, 2019d).
 
@@ -175,7 +173,7 @@ Modulating capacity vapor compression systems can be used in ACs, heat pumps, HP
 
 Non-vapor-compression materials and systems include several space cooling and refrigeration technologies that use specialized materials or alternative systems designs rather than the traditional VC cycle. These include solid-state NVC (define?) technologies such as thermoelectric, magnetocaloric, and electrocaloric systems that produce useful temperature differences when the solid-state material is activated by electrical input. Other technologies include membrane, thermoelastic, Stirling, liquid desiccant, and thermoacoustic systems that use electrical or thermal input to change the property (e.g. phase) of a material (e.g. working fluid) to pump heat. These technologies could offer grid benefits by modulating capacity, separating sensible and latent cooling, and thermal storage. This technology has high potential to offer grid services primarily through efficiency and load shifting. However, load shedding and modulation are possible with variable capacity control. Cheon et. al. found that a thermoelectric heat pump in a DOAS increased energy use by 23% compared to a reference system (Cheon 2019) while Lim et. al. found that a thermoelectric radiant system with a DOAS reduced annual energy consumption by 41% compared to a traditional VAV system (Lim, 2018).
 
-## 2.4 Plumbing
+## 3.4 Plumbing
 
 Plumbing systems suitable for GEBs primarily include SWH. However, the plumbing discipline is also responsible for designing piping for natural gas systems, which will be discussed in this section. Water heaters generally fall into two categories; storage and tankless. Tankless water heaters have limited potential to provide grid services because they are designed to operate on-demand and thus are not able to shift or shed load. In contrast, storage water heaters are well suited for GEBs because TES is part of their fundamental design, which allows them to decouple power demand from energy consumption and provide load shifting away from peak periods. The following plumbing technologies are suitable for GEBs (DOE, 2019d).
 
@@ -189,7 +187,7 @@ Similar to electrical appliances, natural gas appliances can offer grid services
 
 Combined heat and power (CHP), which combines electricity production with waste heat capture and use, can provide grid flexibility by serving on-site electric loads or exporting electricity to the grid while also serving on-site thermal loads (heating directly or cooling through absorption technology). These systems are often used by large buildings and campuses to reduce operating costs by avoiding high consumption and demand charges of grid-tied electricity. Combined heat and power systems can also be used with TES to shift loads to off-peak periods. Operators of these systems can also adjust their dispatch schedule to take advantage of day-ahead and real-time electricity pricing in some markets as well as participate in capacity, energy, and DR markets. This technology has high potential to provide grid services through efficiency by producing electricity on-site and avoiding losses, load shedding if able to increase production during a grid event, and load shifting when combined with TES.
 
-## 2.5 Controls
+## 3.5 Controls
 
 A key part of GEBs are the control systems that connect the discrete systems within a building and allow for "smart" operation through sensors, actuators, and controllers between systems and with the grid. Advanced control systems have the potential to reduce site energy consumption by 29% in commercial buildings through the use of high performance sequences of operation, occupancy-based optimization, and automated fault detection and diagnostics (Fernandez et. al., 2017). Additionally, advanced control systems could affect 10-20% of peak loads in commercial buildings (Kiliccote et. al., 2016). 
 
@@ -217,11 +215,11 @@ Residential refrigerator and freezer controls can provide load shifting for the 
 
 Similar to residential refrigerators, commercial refrigeration equipment could benefit the grid using low operation mode, defrost cycle delay, and freezer precooling. However, in a commercial building such as a supermarket or refrigerated warehouse, these technologies can staggered across multiple pieces to provide additional benefits. These technologies have high potential to offer grid services primarily through load shifting by scheduled precooling. Some load shedding is possible with corresponding load shifting to bring the equipment back to setpoint following the grid event. Efficiency gains are possible with smart controls, which can benefit owners through lower operating costs but with little benefit to the grid because the savings will most likely occur during off-peak times. Glavan et. al. found a peak load reduction of 18% for commercial refrigeration in supermarkets due to precooling (Glavan, 2018).
 
-# 3. Results and Discussion
+# 4. Results and Discussion
 
 The technologies that were researched in the literature review were categorized according to several criteria with the goal of identifying those that have high potential for providing grid services, are mature and available in the marketplace, and finally are capable of being analyzed in BPS software. These categories are largely qualitative, but may form the basis for quantitative analysis using BPS software or other means. 
 
-## 3.1 Architectural
+## 4.1 Architectural
 
 The architectural technologies that were reviewed in this report are summarized in Table 1 below. Of the nine technologies, thermal storage, dynamic glazing, and automated attachments have the highest potential to provide grid services with market-ready products that can be evaluated in BPS software. 
 
@@ -239,7 +237,7 @@ The architectural technologies that were reviewed in this report are summarized 
 | Automated Attachments | High | &#9673; | &#9673; | 
 | Photovoltaic Glazing | Medium | &#9673; | &#9673; | 
 
-## 3.2 Electrical
+## 4.2 Electrical
 
 The electrical technologies that were reviewed in this report are summarized in Table 2 below. Of the six technologies, continuous-operation electronics have the highest potential to provide grid services with market-ready products that can be evaluated in BPS software.
 
@@ -254,7 +252,7 @@ The electrical technologies that were reviewed in this report are summarized in 
 | Electronic Displays | Low | &#9673; | &#9673; | 
 | Modulating, Advanced Clothes Dryers (electric) | Medium | &#9673; | &#9673; | 
 
-## 3.3 Mechanical
+## 4.3 Mechanical
 
 The electrical technologies that were reviewed in this report are summarized in Table 3 below. Of the seven technologies, separate sensible and latent space conditioning and TES have the highest potential to provide grid services with market-ready products that can be evaluated in BPS software. 
 
@@ -270,7 +268,7 @@ The electrical technologies that were reviewed in this report are summarized in 
 | Modulating Capacity Vapor Compression | Medium | &#9673; | &#9673; | 
 | Non-Vapor-Compression Materials and Systems | High | &#9675; | &#9675; | 
 
-## 3.4 Plumbing
+## 4.4 Plumbing
 
 The plumbing technologies that were reviewed in this report are summarized in Table 4 below. Of the three technologies, building-scale CHP has the highest potential to provide grid services with market-ready products that can be evaluated in BPS software.
 
@@ -282,7 +280,7 @@ The plumbing technologies that were reviewed in this report are summarized in Ta
 | Modulating, Advanced Clothes Dryers (gas) | Medium | &#9673; | &#9673; | 
 | Building-Scale CHP | High | &#9673; | &#9673; | 
 
-## 3.5 Controls
+## 4.5 Controls
 
 The controls technologies that were reviewed in this report are summarized in Table 5 below. Of the seven technologies, advanced sensors and controls for lighting, smart thermostats, and water heaters with smart connected controls (electric and gas) have the highest potential to provide grid services with market-ready products that can be evaluated in BPS software.
 
@@ -298,6 +296,6 @@ The controls technologies that were reviewed in this report are summarized in Ta
 | Advanced Residential Refrigerator/Freezer Controls | Medium | &#9673; | &#9673; | 
 | Advanced Controls for Commercial Refrigeration | Medium | &#9675; | &#9673; | 
 
-# 4. Conclusions
+# 5. Conclusions
 
 This report reviewed and summarized the current literature on the topic of GEB technologies with the goal of categorizing the technologies according to several criteria. These criteria include demand-side management strategies, potential to provide grid services, technology maturity, and ability to perform analysis and evaluation in whole-building simulation software. The results identified a total of ten market-ready technologies with high potential to provide grid services that could be evaluated with BPS software.
