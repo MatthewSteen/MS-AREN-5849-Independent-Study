@@ -298,6 +298,6 @@ The controls technologies that were reviewed in this report are summarized in Ta
 | Advanced Residential Refrigerator/Freezer Controls | Medium | &#9673; | &#9673; | 
 | Advanced Controls for Commercial Refrigeration | Medium | &#9675; | &#9673; | 
 
-# Conclusions
+# 4. Conclusions
 
-TODO
+This report reviewed and summarized the current literature on the topic of GEB technologies with the goal of categorizing the technologies according to several criteria. These criteria include demand-side management strategies, potential to provide grid services, technology maturity, and ability to perform analysis and evaluation in whole-building simulation software. The results identified a total of ten market-ready technologies with high potential to provide grid services that could be evaluated with BPS software.
