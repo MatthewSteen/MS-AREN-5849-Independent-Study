@@ -215,7 +215,7 @@ Similar to residential refrigerators, commercial refrigeration equipment could b
 
 # 4. Results and Discussion
 
-The GEB technologies that are reported in the literature review were categorized according to several criteria with the goal of identifying those commercially available technologies that have high potential for providing grid services and are capable of being analyzed in current state-of-art building energy modeling (BEM) software and tools. These categories are largely qualitative, but may form the basis for quantitative analysis using BEM tools.  
+The GEB technologies that are reported in the literature review were categorized according to several criteria with the goal of identifying those commercially available technologies that have high potential for providing grid services and are capable of being analyzed in current state-of-art building energy modeling (BEM) software and tools. These categories are largely qualitative, but may form the basis for quantitative analysis using BEM tools. The BEM Software category focused on the EnergyPlus simulation engine (Crawley et. al., 2001) as a representative state-of-art program.
 
 ## 4.1 Architectural
 
