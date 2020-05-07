@@ -10,6 +10,8 @@ This report reviews and summarizes the current literature on technologies suitab
 
 # 2. Background
 
+## 2.1 Grid-interactive Efficient Buildings
+
 The U.S. DOE defines a GEB as an energy efficient building that uses smart technologies and on-site DERs to provide demand flexibility while co-optimizing for energy cost, grid services, and occupant needs and preferences, in a continuous and integrated way (DOE, 2019a). Specifically, the DOE characterizes GEBs further as having four general characteristics:
 
 - Efficient
@@ -19,42 +21,43 @@ The U.S. DOE defines a GEB as an energy efficient building that uses smart techn
 
 First, GEBs reduce demand on the grid by using less energy through efficiency. Second, they are well connected to allow two-way communication with the grid by sending and receiving signals in order to respond to time-dependent needs. Third, GEBs are smart by integrating sensors and controls that allow for the co-optimization of cost functions from the perspective of the building owner, occupants, and grid through the use of analytics. Finally, they are flexible so their energy loads can be shaped dynamically to meet any grid services and/or signals. These characteristics are facilitated by capabilities at the component level and system level where individual components can monitor and send information about their status and receive control commands to shed, shift, or modulate loads from the building's control system.
 
-## 2.1 Demand-Side Management
+## 2.2 Demand-Side Management
 
-The DOE defines the following demand-side management (DSM) strategies for buildings that can be implemented to manage load on the grid.
+GEBs incorporate DSM strategies that provide services to the grid. The following DSM strategies can be be used by buildings to manage load on the grid. For the purposes of GEBs, the DOE identifies load shed, load shift, and modulation as demand flexibility strategies (DOE, 2019a). 
 
-1. Efficiency
-2. Load Shed
-3. Load Shift
-4. Modulate
-5. Generate
+- Energy Efficiency
+- Load Shedding
+- Load Shifting
+- Modulation
+- Generation
 
-Efficiency is a reduction in energy use while providing the same or improved level of energy service(s). Graphically **(it would be useful  to add graphs to illustrate each strategy.You may be more creative than the grapgs shown in DOE reports?!)**, efficiency is represented by a y-axis shift downward. Load shed is the ability of a building to reduce electricity use during a short period, which typically occurs during times of peak demand or emergencies and on short notice. Load shift is the ability to change the timing of electricity use, which is graphically represented by flattening the load curve. Modulation is the ability to balance real power supply with demand or the ability to balance reactive power draw with supply...TODO
-Generation is the ability to produce electricity for consumption on-site or to dispatch electricity to the grid in response to a signal from the grid operator. For the purposes of GEBs, the DOE identifies load shed, load shift, and modulation as demand flexibility strategies (DOE, 2019a). 
-
-### Energy Efficiency
-
-Energy efficiency improves grid reliability by decreasing peak demand and reducing strain on the transmission and distribution (T&D) system. By reducing load, energy efficiency improves reliability on the supply side by increasing the system's reserve margin by offsetting generation that would otherwise be needed. Energy Efficiency also improves T&D reliability by increasing available capacity in both low-voltage and high-voltage systems. To defer costly T&D upgrades, some utilities have used geographically-targeted energy efficiency programs to reduce strain. **(you may list examples of these energy efficiency programs at least qualitatively the main measures considered in these programs).**
-
-From the demand-side perspective, the value that demand reduction due to energy efficiency provides is a function of the amount, timing, and location of the savings. From the supply-side perspective, the value of energy efficiency is a function of the system's characteristics such as the peak demand timing (such as seasonal and diurnal on-peak periods), load factor, and reserve margin. For example, load reductions that occur during times of on-peak demand are more valuable than reductions that occur during off-peak times. From the T&D perspective, an important energy efficiency benefit is reduced marginal line losses, which are higher during times of peak demand due to resistive losses that scale non-linearly (i.e. vary with the square of current according to Joule's first law). These marginal losses must be covered by a utility's generating reserve, which makes on-peak energy efficiency more valuable.  
-
-### Demand Response
-
-In contrast to energy efficiency, which focusses on reducing energy consumption, demand response aims at lowering peak power requirements through the timing of energy use. Demand response is also the most common form of demand flexibility currently in use in commercial and residential buildings. From the perspective of building owners, demand response can provide reduced utility costs by avoiding high peak demand charges and providing incentives for reducing demand during peak periods. From the perspective of the grid, demand response can provide increased reliability by reducing operating costs and deferring or avoiding capital upgrade costs. 
-
-Demand response can be classified into two types, dispatchable and nondispatchable, depending on who initiates the response to a peak demand event. Dispatchable demand response is initiated by the utility, grid operator, or third-party aggregator in order to directly control building systems to reduce demand during a peak event. Nondispatchable demand response is initiated at the building in response to price signals. **Again some specific programs and strategies would be useful to list as examples.**
+Energy efficiency is a reduction in energy use while providing the same or improved level of energy service(s). Graphically, energy efficiency is represented by a shift downward in demand (Figure 1). Load shedding is the ability of a building to reduce electricity use during a short period, which typically occurs during times of peak demand or emergencies and on short notice. Graphically, load shedding is represented by flattening of peak areas (Figure 2). Load shifting is the ability to change the timing of electricity use, which is graphically represented by decreasing demand during one period while increasing demand during another (Figure 3). Modulation is the ability to balance real power supply with demand or the ability to balance reactive power draw with supply in response to a grid signal. In contrast to the previous strategies, modulation occurs at a smaller time scale within seconds or subseconds. Generation is the ability to produce electricity for consumption on-site or to dispatch electricity to the grid in response to a signal from the grid operator. 
 
 ## 2.2 Grid Services
 
-Grid services provide value through avoided electricity system costs by supporting the generation, transmission, or distribution of electricity. The potential value of a DER can be quantified by estimating the avoided cost of acquiring the next least expensive energy resource that provides comparable grid services. Examples of current mature demand-side resources are energy efficiency and demand response. 
+Grid services provide value through avoided electricity system costs by supporting the generation, transmission, or distribution of electricity. The potential value of a DER can be quantified by estimating the avoided cost of acquiring the next least expensive energy resource that provides comparable grid services. Table 1 summarizes the services GEBs can provide to the grid and maps these services to DSM strategies. Examples of current mature demand-side resources that provide grid services are energy efficiency and demand response. 
 
-## Grid Services Potential
+__Table 1. Grid Services__
 
-TODO
+| Grid Service Category | Grid Service | Energy Efficiency | Load Shedding | Load Shifting | Modulation | 
+| :- | :- | :-: | :-: | :-: | :-: |
+| Generation | Energy | &#9673; | &#9673; | &#9675; | &#9675; | 
+|  | Capacity | &#9673; | &#9673; | &#9673; | &#9675; | 
+| Delivery | Non-Wires Alternatives | &#9673; | &#9673; | &#9673; | &#9675; | 
+|  | Voltage Support | &#9675; | &#9675; | &#9675; | &#9673; | 
+| Ancillary | Contingency Reserves | &#9675; | &#9673; | &#9673; | &#9675; | 
+|  | Frequency Regulation | &#9675; | &#9675; | &#9675; | &#9673; | 
+|  | Ramping | &#9675; | &#9675; | &#9675; | &#9673; | 
 
-### Operational Strategies
+### 2.2.1 Energy Efficiency
 
-TODO
+Energy efficiency improves grid reliability by decreasing peak demand and reducing strain on the transmission and distribution (T&D) system. By reducing load, energy efficiency improves reliability on the supply side by increasing the system's reserve margin by offsetting generation that would otherwise be needed. Energy Efficiency also improves T&D reliability by increasing available capacity in both low-voltage and high-voltage systems. To defer costly T&D upgrades, some utilities have used geographically-targeted energy efficiency programs to reduce strain (NEEP, 2015).
+
+From the demand-side perspective, the value that demand reduction due to energy efficiency provides is a function of the amount, timing, and location of the savings. From the supply-side perspective, the value of energy efficiency is a function of the system's characteristics such as the peak demand timing (such as seasonal and diurnal on-peak periods), load factor, and reserve margin. For example, load reductions that occur during times of on-peak demand are more valuable than reductions that occur during off-peak times. From the T&D perspective, an important energy efficiency benefit is reduced marginal line losses, which are higher during times of peak demand due to resistive losses that scale non-linearly (i.e. vary with the square of current according to Joule's first law). These marginal losses must be covered by a utility's generating reserve, which makes on-peak energy efficiency more valuable.  
+
+### 2.2.2 Demand Response
+
+In contrast to energy efficiency, which focusses on reducing energy consumption, demand response aims at lowering peak power requirements through the timing of energy use. Demand response is also the most common form of demand flexibility currently in use in commercial and residential buildings. From the perspective of building owners, demand response can provide reduced utility costs by avoiding high peak demand charges and providing incentives for reducing demand during peak periods. From the perspective of the grid, demand response can provide increased reliability by reducing operating costs and deferring or avoiding capital upgrade costs. Demand response can be classified into two types, dispatchable and nondispatchable, depending on who initiates the response to a peak demand event. Dispatchable demand response (incentive-based) is initiated by the utility, grid operator, or third-party aggregator in order to directly control building systems to reduce demand during a peak event. Nondispatchable demand response (price-based) is initiated at the building in response to price signals (Paterakis et. al. 2017).
 
 # 3. Literature Review
 
