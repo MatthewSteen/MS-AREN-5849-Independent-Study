@@ -218,15 +218,15 @@ Similar to residential refrigerators, commercial refrigeration equipment could b
 
 # 4. Results and Discussion
 
-The GEB technologies that are reported in the literature review were categorized according to several criteria with the goal of identifying those commercially available technologies that have high potential for providing grid services and are capable of being analyzed in current state-of-art building energy modeling (BEM) software and tools. These categories are largely qualitative, but may form the basis for quantitative analysis using BEM tools. The BEM Software category focused on the EnergyPlus simulation engine (Crawley et. al., 2001) as a representative state-of-art program.
+The GEB technologies that are reported in the literature review were categorized according to several criteria with the goal of identifying those commercially available technologies that have high potential for providing grid services and are capable of being analyzed in current state-of-art building performance simulation (BPS) software and tools. These categories are largely qualitative, but may form the basis for quantitative analysis using BPS tools. The BPS Software category focused on the EnergyPlus simulation engine (Crawley et. al., 2001) as a representative state-of-art program.
 
 ## 4.1 Architectural
 
-The architectural technologies considered in this report to be suitable for GEB applications are summarized in Table 1. Of the nine technologies, thermal storage, dynamic glazing, and automated attachments have the highest potential to provide grid services with market-ready products that can be evaluated in BEM software. 
+The architectural technologies considered in this report to be suitable for GEB applications are summarized in Table 1. Of the nine technologies, thermal storage, dynamic glazing, and automated attachments have the highest potential to provide grid services with market-ready products that can be evaluated in BPS software. 
 
 **Table 1. Summary of Architectural Technologies**
 
-| Technology | DOE Potential | Mature/Available | BEM Software | 
+| Technology | DOE Potential | Mature/Available | BPS Software | 
 | :- | :-: | :-: | :-: |
 | Tunable Thermal Conductivity Materials | High | &#9675; | &#9673; | 
 | Thermally Anisotropic Systems | High | &#9675; | &#9675; | 
@@ -240,11 +240,11 @@ The architectural technologies considered in this report to be suitable for GEB 
 
 ## 4.2 Electrical
 
-The GEB electrical technologies outlined in this report are summarized in Table 2. Of the six technologies, continuous-operation electronics have the highest potential to provide grid services with market-ready products that can be evaluated in BEM software.
+The GEB electrical technologies outlined in this report are summarized in Table 2. Of the six technologies, continuous-operation electronics have the highest potential to provide grid services with market-ready products that can be evaluated in BPS software.
 
 **Table 2. Summary of Electrical Technologies**
 
-| Technology | DOE Potential | Mature/Available | BEM Software | 
+| Technology | DOE Potential | Mature/Available | BPS Software | 
 | :- | :-: | :-: | :-: |
 | Hybrid Daylight SSL Systems | Medium | &#9673; | &#9675; | 
 | SSL Displays | Low | &#9673; | &#9675; | 
@@ -255,11 +255,11 @@ The GEB electrical technologies outlined in this report are summarized in Table 
 
 ## 4.3 Mechanical
 
-The mechanical technologies reviewed in this report are summarized in Table 3. Of the seven technologies, separate sensible and latent space conditioning and TES have the highest potential to provide grid services with market-ready products that can be evaluated in BEM software. 
+The mechanical technologies reviewed in this report are summarized in Table 3. Of the seven technologies, separate sensible and latent space conditioning and TES have the highest potential to provide grid services with market-ready products that can be evaluated in BPS software. 
 
 **Table 3. Summary of Mechanical Technologies**
 
-| Technology | DOE Potential | Mature/Available | BEM Software | 
+| Technology | DOE Potential | Mature/Available | BPS Software | 
 | :- | :-: | :-: | :-: |
 | Separate Sensible and Latent Space Conditioning | High | &#9673; | &#9673; | 
 | Liquid Desiccant Thermal Energy Storage | High | &#9675; | &#9675; | 
@@ -271,11 +271,11 @@ The mechanical technologies reviewed in this report are summarized in Table 3. O
 
 ## 4.4 Plumbing
 
-The plumbing technologies suitable for GEBs identified in this report are summarized in Table 4. Of the three technologies, building-scale CHP has the highest potential to provide grid services with market-ready products that can be evaluated in BEM software.
+The plumbing technologies suitable for GEBs identified in this report are summarized in Table 4. Of the three technologies, building-scale CHP has the highest potential to provide grid services with market-ready products that can be evaluated in BPS software.
 
 **Table 4. Summary of Plumbing Technologies**
 
-| Technology | DOE Potential | Mature/Available | BEM Software | 
+| Technology | DOE Potential | Mature/Available | BPS Software | 
 | :- | :-: | :-: | :-: |
 | Dual-Fuel Water Heater | Low | &#9675; | &#9673; | 
 | Modulating, Advanced Clothes Dryers (gas) | Medium | &#9673; | &#9673; | 
@@ -283,11 +283,11 @@ The plumbing technologies suitable for GEBs identified in this report are summar
 
 ## 4.5 Controls
 
-GEB-specific control technologies summarized in this report are listed in Table 5. Of the seven technologies, advanced sensors and controls for lighting, smart thermostats, and water heaters with smart connected controls (electric and gas) have the highest potential to provide grid services with market-ready products that can be evaluated in BEM software.
+GEB-specific control technologies summarized in this report are listed in Table 5. Of the seven technologies, advanced sensors and controls for lighting, smart thermostats, and water heaters with smart connected controls (electric and gas) have the highest potential to provide grid services with market-ready products that can be evaluated in BPS software.
 
 **Table 5. Summary of Controls Technologies**
 
-| Technology | DOE Potential | Mature/Available | BEM Software | 
+| Technology | DOE Potential | Mature/Available | BPS Software | 
 | :- | :-: | :-: | :-: |
 | Advanced Sensors and Controls (lighting) | High | &#9673; | &#9673; | 
 | Smart Thermostats | High | &#9673; | &#9673; | 
@@ -299,4 +299,4 @@ GEB-specific control technologies summarized in this report are listed in Table 
 
 # 5. Conclusions
 
-This report reviewed and summarized the current literature reported for GEB suitable technologies with the goal of categorizing the technologies according to several criteria. These criteria include demand-side management strategies, potential to provide grid services, technology maturity, and ability to perform analysis and evaluation in whole-building simulation software. The results identified a total of ten market-ready technologies with high potential to provide grid services that could be evaluated with BEM software.
+This report reviewed and summarized the current literature reported for GEB suitable technologies with the goal of categorizing the technologies according to several criteria. These criteria include demand-side management strategies, potential to provide grid services, technology maturity, and ability to perform analysis and evaluation in whole-building simulation software. The results identified a total of ten market-ready technologies with high potential to provide grid services that could be evaluated with BPS software.
