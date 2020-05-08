@@ -232,7 +232,7 @@ The GEB technologies that are reported in the literature review were categorized
 
 The architectural technologies considered in this report to be suitable for GEB applications are summarized in Table 2. Of the nine technologies, thermal storage, dynamic glazing, and automated attachments have the highest potential to provide grid services with market-ready products that can be evaluated in BPS software. 
 
-**Table 2. Summary of Architectural Technologies**
+__Table 2. Summary of Architectural Technologies__
 
 | Technology | Potential | Mature/Available | BPS Software | 
 | :- | :-: | :-: | :-: |
@@ -250,7 +250,7 @@ The architectural technologies considered in this report to be suitable for GEB 
 
 The GEB electrical technologies outlined in this report are summarized in Table 3. Of the six technologies, continuous-operation electronics have the highest potential to provide grid services with market-ready products that can be evaluated in BPS software.
 
-**Table 3. Summary of Electrical Technologies**
+__Table 3. Summary of Electrical Technologies__
 
 | Technology | Potential | Mature/Available | BPS Software | 
 | :- | :-: | :-: | :-: |
@@ -265,7 +265,7 @@ The GEB electrical technologies outlined in this report are summarized in Table 
 
 The mechanical technologies reviewed in this report are summarized in Table 4. Of the seven technologies, separate sensible and latent space conditioning and TES have the highest potential to provide grid services with market-ready products that can be evaluated in BPS software. 
 
-**Table 4. Summary of Mechanical Technologies**
+__Table 4. Summary of Mechanical Technologies__
 
 | Technology | DOE Potential | Mature/Available | BPS Software | 
 | :- | :-: | :-: | :-: |
@@ -281,7 +281,7 @@ The mechanical technologies reviewed in this report are summarized in Table 4. O
 
 The plumbing technologies suitable for GEBs identified in this report are summarized in Table 5. Of the three technologies, building-scale CHP has the highest potential to provide grid services with market-ready products that can be evaluated in BPS software.
 
-**Table 5. Summary of Plumbing Technologies**
+__Table 5. Summary of Plumbing Technologies__
 
 | Technology | DOE Potential | Mature/Available | BPS Software | 
 | :- | :-: | :-: | :-: |
@@ -293,7 +293,7 @@ The plumbing technologies suitable for GEBs identified in this report are summar
 
 GEB-specific control technologies summarized in this report are listed in Table 6. Of the seven technologies, advanced sensors and controls for lighting, smart thermostats, and water heaters with smart connected controls (electric and gas) have the highest potential to provide grid services with market-ready products that can be evaluated in BPS software.
 
-**Table 6. Summary of Controls Technologies**
+__Table 6. Summary of Controls Technologies__
 
 | Technology | DOE Potential | Mature/Available | BPS Software | 
 | :- | :-: | :-: | :-: |
@@ -308,3 +308,4 @@ GEB-specific control technologies summarized in this report are listed in Table 
 # 5. Conclusions
 
 This report reviewed and summarized the current literature reported for GEB suitable technologies with the goal of categorizing the technologies according to several criteria. These criteria include DSM strategies, potential to provide grid services, technology maturity, and ability to perform analysis and evaluation in whole-building simulation software. The results identified a total of ten market-ready technologies with high potential to provide grid services that could be evaluated with BPS software.
+
