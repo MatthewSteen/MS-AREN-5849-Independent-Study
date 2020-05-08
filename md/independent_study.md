@@ -307,5 +307,19 @@ __Table 6. Summary of Controls Technologies__
 
 # 5. Conclusions
 
-This report reviewed and summarized the current literature reported for GEB suitable technologies with the goal of categorizing the technologies according to several criteria. These criteria include DSM strategies, potential to provide grid services, technology maturity, and ability to perform analysis and evaluation in whole-building simulation software. The results identified a total of ten market-ready technologies with high potential to provide grid services that could be evaluated with BPS software.
+This report reviewed and summarized the current literature reported for GEB suitable technologies with the goal of categorizing the technologies according to several criteria. These criteria include DSM strategies, potential to provide grid services, technology maturity, and ability to perform analysis and evaluation in whole-building simulation software. The results identified a total of ten market-ready technologies with high potential to provide grid services that could be evaluated with BPS software (Table 7). The potential of these technologies to provide grid services should be confirmed more widely in the literature and with analysis tools such as BPS software.
 
+__Table 7. High Potential GEB Technologies__
+
+| Category | Technology | Potential | Mature/Available | BPS Software |
+| :- | :- | :-: | :-: | :-: |
+| Architectural | Thermal Storage | High | &#9673; | &#9673; | 
+| | Dynamic Glazing | High | &#9673; | &#9673; | 
+| | Automated Attachments | High | &#9673; | &#9673; | 
+| Electrical | Continuous-Operation Electronics | High | &#9673; | &#9673; | 
+| Mechanical | Separate Sensible and Latent Space Conditioning | High | &#9673; | &#9673; | 
+| | Thermal Energy Storage | High | &#9673; | &#9673; | 
+| Plumbing | Building-Scale CHP | High | &#9673; | &#9673; | 
+| Controls | Advanced Sensors and Controls (lighting) | High | &#9673; | &#9673; | 
+| | Smart Thermostats | High | &#9673; | &#9673; | 
+| | Water Heaters with Smart Connected Controls (electric and gas) | High | &#9673; | &#9673; | 
