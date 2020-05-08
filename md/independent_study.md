@@ -267,7 +267,7 @@ The mechanical technologies reviewed in this report are summarized in Table 4. O
 
 __Table 4. Summary of Mechanical Technologies__
 
-| Technology | DOE Potential | Mature/Available | BPS Software | 
+| Technology | Potential | Mature/Available | BPS Software | 
 | :- | :-: | :-: | :-: |
 | Separate Sensible and Latent Space Conditioning | High | &#9673; | &#9673; | 
 | Liquid Desiccant Thermal Energy Storage | High | &#9675; | &#9675; | 
@@ -283,7 +283,7 @@ The plumbing technologies suitable for GEBs identified in this report are summar
 
 __Table 5. Summary of Plumbing Technologies__
 
-| Technology | DOE Potential | Mature/Available | BPS Software | 
+| Technology | Potential | Mature/Available | BPS Software | 
 | :- | :-: | :-: | :-: |
 | Dual-Fuel Water Heater | Low | &#9675; | &#9673; | 
 | Modulating, Advanced Clothes Dryers (gas) | Medium | &#9673; | &#9673; | 
@@ -295,7 +295,7 @@ GEB-specific control technologies summarized in this report are listed in Table 
 
 __Table 6. Summary of Controls Technologies__
 
-| Technology | DOE Potential | Mature/Available | BPS Software | 
+| Technology | Potential | Mature/Available | BPS Software | 
 | :- | :-: | :-: | :-: |
 | Advanced Sensors and Controls (lighting) | High | &#9673; | &#9673; | 
 | Smart Thermostats | High | &#9673; | &#9673; | 
