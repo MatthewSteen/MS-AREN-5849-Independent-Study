@@ -328,15 +328,15 @@ This report reviewed and summarized the current literature reported for GEB suit
 
 __Table 7. High Potential GEB Technologies__
 
-| Category | Technology | Potential | Mature/Available | BPS Software |
-| :- | :- | :-: | :-: | :-: |
-| Architectural | Thermal Storage | High | &#9673; | &#9673; | 
-| | Dynamic Glazing | High | &#9673; | &#9673; | 
-| | Automated Attachments | High | &#9673; | &#9673; | 
-| Electrical | Continuous-Operation Electronics | High | &#9673; | &#9673; | 
-| Mechanical | Separate Sensible and Latent Space Conditioning | High | &#9673; | &#9673; | 
-| | Thermal Energy Storage | High | &#9673; | &#9673; | 
-| Plumbing | Building-Scale CHP | High | &#9673; | &#9673; | 
-| Controls | Advanced Sensors and Controls (lighting) | High | &#9673; | &#9673; | 
-| | Smart Thermostats | High | &#9673; | &#9673; | 
-| | Water Heaters with Smart Connected Controls (electric and gas) | High | &#9673; | &#9673; | 
+| Category | Technology | Energy Efficiency | Load Shedding | Load Shifting | Modulation | 
+| :- | :- | :-: | :-: | :-: | :-: |
+| Architectural | Thermal Storage | 63% (heating) | - | - | - | 
+|  | Dynamic Glazing | 10-20% | 20-30% | - | - | 
+|  | Automated Attachments | - | 15-33% (cooling) | - | - | 
+| Electrical | Continuous-Operation Electronics | - | - | - | - | 
+| Mechanical | Separate Sensible and Latent Space Conditioning | 30-68% | - | - | - | 
+|  | Thermal Energy Storage | - | - | - | - | 
+| Plumbing | Building-Scale CHP | 33% (heating) | - | - | - | 
+| Controls | Advanced Sensors and Controls (lighting) | - | - | - | - | 
+|  | Smart Thermostats | 11-34% | - | - | - | 
+|  | Water Heaters with Smart Connected Controls (electric and gas) | 95% (on-peak) | - | - | - |  
