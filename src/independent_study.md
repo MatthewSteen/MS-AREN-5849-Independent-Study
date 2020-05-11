@@ -45,6 +45,14 @@ __Figure 2. Load Shedding__
 
 __Figure 3. Load Shifting__
 
+![image](fig4_modulation.png)
+
+__Figure 4. Modulation__
+
+![image](fig5_generation.png)
+
+__Figure 5. Generation__
+
 ## 2.2 Grid Services
 
 Grid services provide value through avoided electricity system costs by supporting the generation, transmission, or distribution of electricity. The potential value of a DER can be quantified by estimating the avoided cost of acquiring the next least expensive energy resource that provides comparable grid services. Table 1 summarizes the services GEBs can provide to the grid and maps these services to DSM strategies. Examples of current mature demand-side resources that provide grid services are energy efficiency and DR. 
@@ -74,6 +82,15 @@ In contrast to energy efficiency, which focusses on reducing energy consumption,
 # 3. Literature Review
 
 This section reviews the current reported literature on the benefits of GEBs and the technologies that are suitable for GEB applications. The technologies are organized from a building design perspective according to design disciplines. Each technology is described briefly in the context of its ability to contribute to DSM strategies and thus provide services to the grid and ultimately be suitable for GEBs. 
+
+| Architectural | Electrical | Mechanical | Plumbing | Controls | 
+| :- | :- | :- | :- | :- |
+| Thermally Anisotropic Systems | SSL Displays | Liquid Desiccant Thermal Energy Storage | Modulating, Advanced Clothes Dryers (gas) | Smart Thermostats | 
+| Thermal Storage | Continuous-Operation Electronics | Hybrid Evaporative Precooling for AC | Building-Scale CHP | Advanced Controls for HVAC Equipment with Embedded Thermostats | 
+| Moisture Storage and Extraction | Battery-Powered Electronics | Dual-Fuel HVAC Systems |  | Water Heaters with Smart Connected Controls (electric and gas) | 
+| Variable Radiative Technologies | Electronic Displays | Thermal Energy Storage |  | Advanced Dishwasher/Clothes Washer Controls | 
+| Building-Integrated Photovoltaics | Modulating, Advanced Clothes Dryers (electric) | Modulating Capacity Vapor Compression |  | Advanced Residential Refrigerator/Freezer Controls | 
+| Dynamic Glazing |  | Non-Vapor-Compression Materials and Systems |  | Advanced Controls for Commercial Refrigeration | 
 
 ## 3.1 Architectural
 
