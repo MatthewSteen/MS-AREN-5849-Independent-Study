@@ -31,19 +31,21 @@ GEBs incorporate DSM strategies that provide services to the grid. The following
 - Modulation
 - Generation
 
-Energy efficiency is a reduction in energy use while providing the same or improved level of energy service(s). Graphically, energy efficiency is represented by a shift downward in demand (Figure 1). Load shedding is the ability of a building to reduce electricity use during a short period, which typically occurs during times of peak demand or emergencies and on short notice. Graphically, load shedding is represented by flattening of peak areas (Figure 2). Load shifting is the ability to change the timing of electricity use, which is graphically represented by decreasing demand during one period while increasing demand during another (Figure 3). Modulation is the ability to balance real power supply with demand or the ability to balance reactive power draw with supply in response to a grid signal. In contrast to the previous strategies, modulation occurs at a smaller time scale within seconds or subseconds. Generation is the ability to produce electricity for consumption on-site or to dispatch electricity to the grid in response to a signal from the grid operator. 
+These DSM strategies are illustrated in Figures 1 and 2. Energy efficiency is a reduction in energy use while providing the same or improved level of energy service(s). Graphically, energy efficiency is represented by a shift downward in demand. Load shedding is the ability of a building to reduce electricity use during a short period, which typically occurs during times of peak demand or emergencies and on short notice. Graphically, load shedding is represented by flattening of peak areas. Load shifting is the ability to change the timing of electricity use, which is graphically represented by decreasing demand during one period while increasing demand during another. Modulation is the ability to balance real power supply with demand or the ability to balance reactive power draw with supply in response to a grid signal. In contrast to the previous strategies, modulation occurs at a smaller time scale within seconds or subseconds. Generation is the ability to produce electricity for consumption on-site or to dispatch electricity to the grid in response to a signal from the grid operator. 
 
 ![image](fig1_energy_efficiency.png)
 
-__Figure 1. Energy Efficiency__
-
 ![image](fig2_load_shedding.png)
-
-__Figure 2. Load Shedding__
 
 ![image](fig3_load_shifting.png)
 
-__Figure 3. Load Shifting__
+![image](fig4_modulation.png)
+
+__Figure 1. Energy Efficiency, Load Shifting, Load Shedding, and Modulation__
+
+![image](fig5_generation.png)
+
+__Figure 2. Generation__
 
 ## 2.2 Grid Services
 
@@ -73,7 +75,18 @@ In contrast to energy efficiency, which focusses on reducing energy consumption,
 
 # 3. Literature Review
 
-This section reviews the current reported literature on the benefits of GEBs and the technologies that are suitable for GEB applications. The technologies are organized from a building design perspective according to design disciplines. Each technology is described briefly in the context of its ability to contribute to DSM strategies and thus provide services to the grid and ultimately be suitable for GEBs. 
+This section reviews the current reported literature on the benefits of GEBs and the technologies that are suitable for GEB applications. The technologies are organized from a building design perspective according to design disciplines (Table 2). Each technology is described briefly in the context of its ability to contribute to DSM strategies and thus provide services to the grid and ultimately be suitable for GEBs. 
+
+__Table 2. Summary of Technologies by Category__
+
+| Architectural | Electrical | Mechanical | Plumbing | Controls | 
+| :- | :- | :- | :- | :- |
+| Thermally Anisotropic Systems | SSL Displays | Liquid Desiccant Thermal Energy Storage | Modulating, Advanced Clothes Dryers (gas) | Smart Thermostats | 
+| Thermal Storage | Continuous-Operation Electronics | Hybrid Evaporative Precooling for AC | Building-Scale CHP | Advanced Controls for HVAC Equipment with Embedded Thermostats | 
+| Moisture Storage and Extraction | Battery-Powered Electronics | Dual-Fuel HVAC Systems |  | Water Heaters with Smart Connected Controls (electric and gas) | 
+| Variable Radiative Technologies | Electronic Displays | Thermal Energy Storage |  | Advanced Dishwasher/Clothes Washer Controls | 
+| Building-Integrated Photovoltaics | Modulating, Advanced Clothes Dryers (electric) | Modulating Capacity Vapor Compression |  | Advanced Residential Refrigerator/Freezer Controls | 
+| Dynamic Glazing |  | Non-Vapor-Compression Materials and Systems |  | Advanced Controls for Commercial Refrigeration | 
 
 ## 3.1 Architectural
 
@@ -230,9 +243,9 @@ The GEB technologies that are reported in the literature review were categorized
 
 ## 4.1 Architectural
 
-The architectural technologies considered in this report to be suitable for GEB applications are summarized in Table 2. Of the nine technologies, thermal storage, dynamic glazing, and automated attachments have the highest potential to provide grid services with market-ready products that can be evaluated in BPS software. 
+The architectural technologies considered in this report to be suitable for GEB applications are summarized in Table 3. Of the nine technologies, thermal storage, dynamic glazing, and automated attachments have the highest potential to provide grid services with market-ready products that can be evaluated in BPS software. 
 
-__Table 2. Summary of Architectural Technologies__
+__Table 3. Summary of Architectural Technologies__
 
 | Technology | Potential | Mature/Available | BPS Software | 
 | :- | :-: | :-: | :-: |
@@ -248,9 +261,9 @@ __Table 2. Summary of Architectural Technologies__
 
 ## 4.2 Electrical
 
-The GEB electrical technologies outlined in this report are summarized in Table 3. Of the six technologies, continuous-operation electronics have the highest potential to provide grid services with market-ready products that can be evaluated in BPS software.
+The GEB electrical technologies outlined in this report are summarized in Table 4. Of the six technologies, continuous-operation electronics have the highest potential to provide grid services with market-ready products that can be evaluated in BPS software.
 
-__Table 3. Summary of Electrical Technologies__
+__Table 4. Summary of Electrical Technologies__
 
 | Technology | Potential | Mature/Available | BPS Software | 
 | :- | :-: | :-: | :-: |
@@ -263,9 +276,9 @@ __Table 3. Summary of Electrical Technologies__
 
 ## 4.3 Mechanical
 
-The mechanical technologies reviewed in this report are summarized in Table 4. Of the seven technologies, separate sensible and latent space conditioning and TES have the highest potential to provide grid services with market-ready products that can be evaluated in BPS software. 
+The mechanical technologies reviewed in this report are summarized in Table 5. Of the seven technologies, separate sensible and latent space conditioning and TES have the highest potential to provide grid services with market-ready products that can be evaluated in BPS software. 
 
-__Table 4. Summary of Mechanical Technologies__
+__Table 5. Summary of Mechanical Technologies__
 
 | Technology | Potential | Mature/Available | BPS Software | 
 | :- | :-: | :-: | :-: |
@@ -279,9 +292,9 @@ __Table 4. Summary of Mechanical Technologies__
 
 ## 4.4 Plumbing
 
-The plumbing technologies suitable for GEBs identified in this report are summarized in Table 5. Of the three technologies, building-scale CHP has the highest potential to provide grid services with market-ready products that can be evaluated in BPS software.
+The plumbing technologies suitable for GEBs identified in this report are summarized in Table 6. Of the three technologies, building-scale CHP has the highest potential to provide grid services with market-ready products that can be evaluated in BPS software.
 
-__Table 5. Summary of Plumbing Technologies__
+__Table 6. Summary of Plumbing Technologies__
 
 | Technology | Potential | Mature/Available | BPS Software | 
 | :- | :-: | :-: | :-: |
@@ -291,9 +304,9 @@ __Table 5. Summary of Plumbing Technologies__
 
 ## 4.5 Controls
 
-GEB-specific control technologies summarized in this report are listed in Table 6. Of the seven technologies, advanced sensors and controls for lighting, smart thermostats, and water heaters with smart connected controls (electric and gas) have the highest potential to provide grid services with market-ready products that can be evaluated in BPS software.
+GEB-specific control technologies summarized in this report are listed in Table 7. Of the seven technologies, advanced sensors and controls for lighting, smart thermostats, and water heaters with smart connected controls (electric and gas) have the highest potential to provide grid services with market-ready products that can be evaluated in BPS software.
 
-__Table 6. Summary of Controls Technologies__
+__Table 7. Summary of Controls Technologies__
 
 | Technology | Potential | Mature/Available | BPS Software | 
 | :- | :-: | :-: | :-: |
@@ -307,19 +320,19 @@ __Table 6. Summary of Controls Technologies__
 
 # 5. Conclusions
 
-This report reviewed and summarized the current literature reported for GEB suitable technologies with the goal of categorizing the technologies according to several criteria. These criteria include DSM strategies, potential to provide grid services, technology maturity, and ability to perform analysis and evaluation in whole-building simulation software. The results identified a total of ten market-ready technologies with high potential to provide grid services that could be evaluated with BPS software (Table 7). The potential of these technologies to provide grid services should be confirmed more widely in the literature and with analysis tools such as BPS software.
+This report reviewed and summarized the current literature reported for GEB suitable technologies with the goal of categorizing the technologies according to several criteria. These criteria include DSM strategies, potential to provide grid services, technology maturity, and ability to perform analysis and evaluation in whole-building simulation software. The results identified a total of ten market-ready technologies with high potential to provide grid services that could be evaluated with BPS software (Table 8). The potential of these technologies to provide grid services should be confirmed more widely in the literature and with analysis tools such as BPS software.
 
-__Table 7. High Potential GEB Technologies__
+__Table 8. High Potential GEB Technologies__
 
-| Category | Technology | Potential | Mature/Available | BPS Software |
-| :- | :- | :-: | :-: | :-: |
-| Architectural | Thermal Storage | High | &#9673; | &#9673; | 
-| | Dynamic Glazing | High | &#9673; | &#9673; | 
-| | Automated Attachments | High | &#9673; | &#9673; | 
-| Electrical | Continuous-Operation Electronics | High | &#9673; | &#9673; | 
-| Mechanical | Separate Sensible and Latent Space Conditioning | High | &#9673; | &#9673; | 
-| | Thermal Energy Storage | High | &#9673; | &#9673; | 
-| Plumbing | Building-Scale CHP | High | &#9673; | &#9673; | 
-| Controls | Advanced Sensors and Controls (lighting) | High | &#9673; | &#9673; | 
-| | Smart Thermostats | High | &#9673; | &#9673; | 
-| | Water Heaters with Smart Connected Controls (electric and gas) | High | &#9673; | &#9673; | 
+| Category | Technology | Energy Efficiency | Load Shedding | Load Shifting | Modulation | 
+| :- | :- | :-: | :-: | :-: | :-: |
+| Architectural | Thermal Storage | 63% (heating) | - | - | - | 
+|  | Dynamic Glazing | 10-20% | 20-30% | - | - | 
+|  | Automated Attachments | - | 15-33% (cooling) | - | - | 
+| Electrical | Continuous-Operation Electronics | - | - | - | - | 
+| Mechanical | Separate Sensible and Latent Space Conditioning | 30-68% | - | - | - | 
+|  | Thermal Energy Storage | - | - | - | - | 
+| Plumbing | Building-Scale CHP | 33% (heating) | - | - | - | 
+| Controls | Advanced Sensors and Controls (lighting) | - | - | - | - | 
+|  | Smart Thermostats | 11-34% | - | - | - | 
+|  | Water Heaters with Smart Connected Controls (electric and gas) | 95% (on-peak) | - | - | - |  
