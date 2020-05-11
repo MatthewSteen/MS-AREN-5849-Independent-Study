@@ -31,27 +31,21 @@ GEBs incorporate DSM strategies that provide services to the grid. The following
 - Modulation
 - Generation
 
-Energy efficiency is a reduction in energy use while providing the same or improved level of energy service(s). Graphically, energy efficiency is represented by a shift downward in demand (Figure 1). Load shedding is the ability of a building to reduce electricity use during a short period, which typically occurs during times of peak demand or emergencies and on short notice. Graphically, load shedding is represented by flattening of peak areas (Figure 2). Load shifting is the ability to change the timing of electricity use, which is graphically represented by decreasing demand during one period while increasing demand during another (Figure 3). Modulation is the ability to balance real power supply with demand or the ability to balance reactive power draw with supply in response to a grid signal. In contrast to the previous strategies, modulation occurs at a smaller time scale within seconds or subseconds. Generation is the ability to produce electricity for consumption on-site or to dispatch electricity to the grid in response to a signal from the grid operator. 
+These DSM strategies are illustrated in Figures 1 and 2. Energy efficiency is a reduction in energy use while providing the same or improved level of energy service(s). Graphically, energy efficiency is represented by a shift downward in demand. Load shedding is the ability of a building to reduce electricity use during a short period, which typically occurs during times of peak demand or emergencies and on short notice. Graphically, load shedding is represented by flattening of peak areas. Load shifting is the ability to change the timing of electricity use, which is graphically represented by decreasing demand during one period while increasing demand during another. Modulation is the ability to balance real power supply with demand or the ability to balance reactive power draw with supply in response to a grid signal. In contrast to the previous strategies, modulation occurs at a smaller time scale within seconds or subseconds. Generation is the ability to produce electricity for consumption on-site or to dispatch electricity to the grid in response to a signal from the grid operator. 
 
 ![image](fig1_energy_efficiency.png)
 
-__Figure 1. Energy Efficiency__
-
 ![image](fig2_load_shedding.png)
-
-__Figure 2. Load Shedding__
 
 ![image](fig3_load_shifting.png)
 
-__Figure 3. Load Shifting__
-
 ![image](fig4_modulation.png)
 
-__Figure 4. Modulation__
+__Figure 1. Energy Efficiency, Load Shifting, Load Shedding, and Modulation__
 
 ![image](fig5_generation.png)
 
-__Figure 5. Generation__
+__Figure 2. Generation__
 
 ## 2.2 Grid Services
 
