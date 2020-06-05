@@ -1,7 +1,30 @@
 # A Review and Categorization of Grid-interactive Efficient Building Technologies for Building Performance Simulation <!-- omit in toc --> 
 
 # Table of Contents <!-- omit in toc --> 
-
+- [1. Introduction](#1-introduction)
+- [2. Background](#2-background)
+  - [2.1 Grid-interactive Efficient Buildings](#21-grid-interactive-efficient-buildings)
+  - [2.2 Demand-Side Management](#22-demand-side-management)
+  - [2.2 Grid Services](#22-grid-services)
+    - [2.2.1 Energy Efficiency](#221-energy-efficiency)
+    - [2.2.2 Demand Response](#222-demand-response)
+- [3. Literature Review](#3-literature-review)
+  - [3.1 Architectural](#31-architectural)
+    - [3.1.1 Static Systems](#311-static-systems)
+    - [3.1.2 Dynamic Systems](#312-dynamic-systems)
+  - [3.2 Electrical](#32-electrical)
+    - [3.2.1 Lighting](#321-lighting)
+    - [3.2.2 Equipment](#322-equipment)
+  - [3.3 Mechanical](#33-mechanical)
+  - [3.4 Plumbing](#34-plumbing)
+  - [3.5 Controls](#35-controls)
+- [4. Results and Discussion](#4-results-and-discussion)
+  - [4.1 Architectural](#41-architectural)
+  - [4.2 Electrical](#42-electrical)
+  - [4.3 Mechanical](#43-mechanical)
+  - [4.4 Plumbing](#44-plumbing)
+  - [4.5 Controls](#45-controls)
+- [5. Conclusions](#5-conclusions)
 
 # 1. Introduction
 
