@@ -1,5 +1,41 @@
 # A Review and Categorization of Grid-interactive Efficient Building Technologies for Building Performance Simulation
 
+# Table of Contents
+
+1. [Introduction](1.Introduction)
+
+2. [Background](2.Background)
+
+    2.1 [Grid-interactive Efficient Buildings](2.1GridinteractiveEfficientBuildings)
+
+    2.2 [Demand-Side Management](2.2DemandSideManagement)
+
+3. [Literature Review](3.LiteratureReview)
+
+    3.1 [Architectural](3.1Architectural)
+
+    3.2 [Electrical](3.2Electrical)
+
+    3.3 [Mechanical](3.3Mechanical)
+
+    3.4 [Plumbing](3.4Plumbing)
+
+    3.5 [Controls](3.5Controls)
+
+4. [Results and Discussion](4.ResultsandDiscussion)
+
+    4.1 [Architectural](4.1Architectural)
+
+    4.2 [Electrical](4.2Electrical)
+
+    4.3 [Mechanical](4.3Mechanical)
+
+    4.4 [Plumbing](4.4Plumbing)
+
+    4.5 [Controls](4.5Controls)
+
+5. [Conclusions](5.Conclusions)
+
 # 1. Introduction
 
 In the United States, the electricity grid continues to experience rapid changes both on the supply and demand sides. On the supply side, its generation fuel mix is shifting away from coal and nuclear sources towards natural gas and renewable energy sources. At the same time, grid operators must balance an increasing supply of non-dispatchable and intermittently available renewable sources such as wind and solar, which are projected to be the fastest growing electricity resource through 2050 (EIA, 2020). On the demand side, an increasing share of demand is now met by distributed energy resources (DER) such as solar photovoltaics (PV), which are also supplying energy to the grid through net metering. These changes are driven mostly by retiring less efficient fossil fuel-based generation sources, low natural gas prices, policies supporting renewable energy, and continued decline in renewable energy costs. At the same time, concerns about climate change have also begun to shift both supply-side and demand-side fuel sources away from fossil fuel-based sources to renewable energy sources. Utilities are committing to 100% renewable energy goals as municipalities adopt electrification policies for buildings in an effort to reduce carbon emissions.
