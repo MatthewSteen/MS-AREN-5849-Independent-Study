@@ -1,40 +1,53 @@
-# A Review and Categorization of Grid-interactive Efficient Building Technologies for Building Performance Simulation
+# A Review and Categorization of Grid-interactive Efficient Building Technologies for Building Performance Simulation <!-- omit in toc --> 
 
-# Table of Contents
+# Table of Contents <!-- omit in toc --> 
+[1. Introduction](#1-introduction)
 
-1. [Introduction](1.Introduction)
+[2. Background](#2-background)
 
-2. [Background](2.Background)
+  [2.1 Grid-interactive Efficient Buildings](#21-grid-interactive-efficient-buildings)
 
-    2.1 [Grid-interactive Efficient Buildings](2.1GridinteractiveEfficientBuildings)
+  [2.2 Demand-Side Management](#22-demand-side-management)
 
-    2.2 [Demand-Side Management](2.2DemandSideManagement)
+  [2.2 Grid Services](#22-grid-services)
 
-3. [Literature Review](3.LiteratureReview)
+    [2.2.1 Energy Efficiency](#221-energy-efficiency)
 
-    3.1 [Architectural](3.1Architectural)
+    [2.2.2 Demand Response](#222-demand-response)
 
-    3.2 [Electrical](3.2Electrical)
+[3. Literature Review](#3-literature-review)
 
-    3.3 [Mechanical](3.3Mechanical)
+  [3.1 Architectural](#31-architectural)
 
-    3.4 [Plumbing](3.4Plumbing)
+    [3.1.1 Static Systems](#311-static-systems)
 
-    3.5 [Controls](3.5Controls)
+    [3.1.2 Dynamic Systems](#312-dynamic-systems)
 
-4. [Results and Discussion](4.ResultsandDiscussion)
+  [3.2 Electrical](#32-electrical)
 
-    4.1 [Architectural](4.1Architectural)
+    [3.2.1 Lighting](#321-lighting)
 
-    4.2 [Electrical](4.2Electrical)
+    [3.2.2 Equipment](#322-equipment)
 
-    4.3 [Mechanical](4.3Mechanical)
+  [3.3 Mechanical](#33-mechanical)
 
-    4.4 [Plumbing](4.4Plumbing)
+  [3.4 Plumbing](#34-plumbing)
 
-    4.5 [Controls](4.5Controls)
+  [3.5 Controls](#35-controls)
 
-5. [Conclusions](5.Conclusions)
+[4. Results and Discussion](#4-results-and-discussion)
+
+  [4.1 Architectural](#41-architectural)
+
+  [4.2 Electrical](#42-electrical)
+
+  [4.3 Mechanical](#43-mechanical)
+
+  [4.4 Plumbing](#44-plumbing)
+
+  [4.5 Controls](#45-controls)
+  
+[5. Conclusions](#5-conclusions)
 
 # 1. Introduction
 
