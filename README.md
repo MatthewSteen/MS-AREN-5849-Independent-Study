@@ -2,6 +2,10 @@
 
 This repository contains the files for an Independent Study course (CVEN 5849) as part of a Master of Science degree in [Architectural Engineering at the University of Colorado Boulder](https://www.colorado.edu/academics/programs/architectural-engineering).
 
+A summary of the report was presented at the [American Society of Mechanical Engineers 14th International Conference on Energy Sustainability](https://event.asme.org/ES/) on June 17, 2020.
+
+---
+
 ## Abstract (DRAFT)
 
 The electricity grid in the United States continues to experience rapid changes both on the supply and demand sides. On the supply side, its generation fuel mix is shifting away from coal and nuclear sources towards natural gas and renewable energy sources. At the same time, grid operators must balance an increasing supply of non-dispatchable and intermittently available sources such as wind and solar. On the demand side, an increasing share of demand is now met by distributed energy resources (DER) such as solar photovoltaics (PV), which are also supplying energy to the grid through net metering. These changes are driven by in large part by retiring less efficient fossil fuel-based generation sources, low natural gas prices, policies supporting renewable energy, and continued decline in renewable energy costs. At the same time, concerns about climate change have also begun to shift both supply-side and demand-side fuel sources away from fossil fuel-based sources to renewable energy sources. Utilities are committing to 100% renewable energy goals as municipalities adopt electrification policies for buildings in an effort to reduce carbon emissions.
