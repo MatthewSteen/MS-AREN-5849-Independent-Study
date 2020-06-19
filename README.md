@@ -1,4 +1,4 @@
-__Copyright &#169 2020 Matthew Steen__
+__Copyright &#169; 2020 Matthew Steen__
 
 This repository contains the files for an Independent Study course (CVEN 5849) as part of a Master of Science degree in [Architectural Engineering at the University of Colorado Boulder](https://www.colorado.edu/academics/programs/architectural-engineering).
 
