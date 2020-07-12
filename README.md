@@ -6,7 +6,7 @@ A summary of the report was presented at the [American Society of Mechanical Eng
 
 ---
 
-# [A Review and Categorization of Grid-interactive Efficient Building Technologies for Building Performance Simulation](https://github.com/MatthewSteen/MS-CVEN-5849-Independent-Study/blob/develop/src/independent_study.md)
+# [A Review and Categorization of Grid-interactive Efficient Building Technologies for Building Performance Simulation](https://github.com/MatthewSteen/MS-CVEN-5849-Independent-Study/blob/develop/md/independent_study.md)
 
 ## Abstract (DRAFT)
 
