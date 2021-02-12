@@ -1,4 +1,30 @@
-# A Review and Categorization of Grid-interactive Efficient Building Technologies for Building Performance Simulation
+# A Review and Categorization of Grid-interactive Efficient Building Technologies for Building Performance Simulation <!-- omit in toc --> 
+
+# Table of Contents <!-- omit in toc --> 
+- [1. Introduction](#1-introduction)
+- [2. Background](#2-background)
+  - [2.1 Grid-interactive Efficient Buildings](#21-grid-interactive-efficient-buildings)
+  - [2.2 Demand-Side Management](#22-demand-side-management)
+  - [2.2 Grid Services](#22-grid-services)
+    - [2.2.1 Energy Efficiency](#221-energy-efficiency)
+    - [2.2.2 Demand Response](#222-demand-response)
+- [3. Literature Review](#3-literature-review)
+  - [3.1 Architectural](#31-architectural)
+    - [3.1.1 Static Systems](#311-static-systems)
+    - [3.1.2 Dynamic Systems](#312-dynamic-systems)
+  - [3.2 Electrical](#32-electrical)
+    - [3.2.1 Lighting](#321-lighting)
+    - [3.2.2 Equipment](#322-equipment)
+  - [3.3 Mechanical](#33-mechanical)
+  - [3.4 Plumbing](#34-plumbing)
+  - [3.5 Controls](#35-controls)
+- [4. Results and Discussion](#4-results-and-discussion)
+  - [4.1 Architectural](#41-architectural)
+  - [4.2 Electrical](#42-electrical)
+  - [4.3 Mechanical](#43-mechanical)
+  - [4.4 Plumbing](#44-plumbing)
+  - [4.5 Controls](#45-controls)
+- [5. Conclusions](#5-conclusions)
 
 # 1. Introduction
 
@@ -163,7 +189,7 @@ The primary market for grid-interactive electronics is large commercial office b
 - Electronic Displays
 - Modulating, Advanced Clothes Dryers (electric)
 
-Continuous-operation electronics include stationary equipment that generally operate continuously and require a constant power supply. Examples of continuous-operation electronics include network equipment, stationary (desktop) computers, servers, and AV equipment. This type of electronic equipment generally uses a constant amount of energy but some devices can operate in low power modes. This category of electronics has the highest relative potential to provide grid services because the equipment is constantly connected to a power supply and often operating continuously. Energy efficiency improvements offer the greatest DSM opportunities by integrating low power, standby, deep sleep, or power scaling modes. Staging the operation of this equipment also has the potential to reduce building peak demands. Additional grid services could include load shedding and modulation of grid-responsive servers in data centers and offices (Alaperä et. al., 2018).
+Continuous-operation electronics include stationary equipment that generally operate continuously and require a constant power supply. Examples of continuous-operation electronics include network equipment, stationary (desktop) computers, servers, and AV equipment. This type of electronic equipment generally uses a constant amount of energy but some devices can operate in low power modes. This category of electronics has the highest relative potential to provide grid services because the equipment is constantly connected to a power supply and often operating continuously. Energy efficiency improvements offer the greatest DSM opportunities by integrating low power, standby, deep sleep, or power scaling modes. Staging the operation of this equipment also has the potential to reduce building peak demands. Jenkins et. al. (2019) found a 58% reduction in average hourly electricity consumption for concession equipment from centralized controls that turned off equipment during non-event days. Jenkins et. al. also found a 56% reduction for IT equipment using centralized controls. Additional grid services could include load shedding and modulation of grid-responsive servers in data centers and offices (Alaperä et. al., 2018).
 
 Battery-powered electronics include equipment with an internal rechargeable storage unit that requires a power supply to periodically recharge. Examples of battery-powered electronics include portable (laptop) computers, uninterruptible power supplies (UPS), and miscellaneous electronics such as mobile phones. The energy use of this type of equipment ranges from cycling in the case of a laptop computer to always on in the case of a UPS. This type of equipment has moderate relative potential to provide grid services because these devices are generally portable (disconnected from the grid), do not operate continuously, and generally are a smaller portion of total building loads. Additionally, these devices are usually energy efficient because they are designed to maximize battery life further limiting their potential. However, grid-responsive power supplies for these devices could provide load shifting to benefit the grid and building peak demand, especially UPS battery backups because they are usually always on and require more power than other devices in this category.
 
@@ -191,7 +217,7 @@ Hybrid evaporative precooling for air conditioning (AC) combines evaporative coo
 
 Dual-fuel HVAC systems temporarily switch fuels during heating or cooling to provide value to the grid through curtailment. Specifically, grid value is provided when the lower cost fuel is primarily used throughout the year and the more expensive fuel is only used during limited grid events. For example, in regions that experience electric peaks during winter due to the prevalence of electric heating, a heat pump system that switches from electric heat pump heating to natural gas heating during a peak event to shift demand to the natural gas grid. Similarly, absorption cooling, which uses a heat source to provide cooling, can also be used to shift cooling fuel from electricity to natural gas using gas-absorption cooling. Currently, the low cost of natural gas makes using it for electric curtailment infeasible. However, in areas where costly delivered fuel is used for heating (e.g. fuel oil or propane), using it to curtail electric heating can be more cost-effective, especially since the delivered fuel and electricity markets are not interactive unlike the natural gas and electricity markets which are often related. This technology has low potential to provide grid services by shedding load because the switch opportunities are infrequent, mostly during winter peak periods, and are most applicable when switching from heat pump heating to natural gas or delivered fuel heating. Low natural gas prices are a significant hindrance to the adoption of dual-fuel HVAC systems (DOE, 2019d).
 
-TES ranges from passive systems that use additional thermal mass or insulation within a building's envelope to active systems that rely on phase change media to store and release energy in an optimized sequence. These systems can be used for cooling-only, heating-only, or both cooling and heating. Active TES systems cool or heat materials to store energy during low cost periods so that it can be used during high cost periods with less energy input. The round-trip efficiency of these systems is typically 80% because of thermal losses to the surroundings (Guess 2018; Energy Storage Association 2019). This technology has high potential to provide grid services primarily through daily load shifting to reduce demand charges. Load shedding is possible when the shift in energy use allows equipment to operate at a higher efficiency, e.g. higher energy efficiency ratio at night.
+TES ranges from passive systems that use additional thermal mass or insulation within a building's envelope to active systems that rely on phase change media to store and release energy in an optimized sequence. These systems can be used for cooling-only, heating-only, or both cooling and heating. Active TES systems cool or heat materials to store energy during low cost periods so that it can be used during high cost periods with less energy input. The round-trip efficiency of these systems is typically 80% because of thermal losses to the surroundings (Guess 2018; Energy Storage Association 2019). This technology has high potential to provide grid services primarily through daily load shifting to reduce demand charges. Load shedding is possible when the shift in energy use allows equipment to operate at a higher efficiency, e.g. higher energy efficiency ratio at night. Alimohammadisagvand et. al. (2016) found energy use savings of 12% for a residential buildings in a cold climate. Kamal et. al. (2019) found annual average peak load shifing of 25-78% for a large office model in a hot humid climate.
 
 Modulating capacity vapor-compression systems can be used in ACs, heat pumps, heat pump water heaters (HPWHs), and heat pump dryers to more precisely control temperatures compared to systems that cycle all the way on and off. This technology has medium potential to provide grid services. It primarily offers energy efficiency improvements as well as thermal comfort, but it can provide load shifting by precooling or preheating the building prior to a peak period thus shifting the load forward allowing the building's thermal inertia to carry it through the peak period. Additionally, a combination of load shifting and shedding could be provided by changing setpoint temperatures without precooling or preheating during a peak period, which sheds load and shifts it to a later time when the setpoints return to their original states. This technology could also provide modulation services by providing frequency regulation and voltage support (through power factor control using power electronics for variable speed drives). 
 
@@ -223,7 +249,7 @@ A key part of GEBs are the control systems that connect the discrete systems wit
 - Advanced Residential Refrigerator/Freezer Controls
 - Advanced Controls for Commercial Refrigeration
 
-Advanced sensors and controls improve the ability of connected lighting systems to adjust their power-consuming features such as light levels and spectrum, sensors, or network interfaces through embedded control algorithms. These technologies would enable lighting systems to interact with the grid and other building-level sensors and controllers to reduce loads and provide the grid with contingency reserves and frequency regulation. The market for these technologies is expected to grow significantly in the commercial building sector, with one estimate predicting 35% penetration by 2035 (Penning et. al. 2017)
+Advanced sensors and controls improve the ability of connected lighting systems to adjust their power-consuming features such as light levels and spectrum, sensors, or network interfaces through embedded control algorithms. These technologies would enable lighting systems to interact with the grid and other building-level sensors and controllers to reduce loads and provide the grid with contingency reserves and frequency regulation. The market for these technologies is expected to grow significantly in the commercial building sector, with one estimate predicting 35% penetration by 2035 (Penning et. al. 2017) Snyder (2020) found simulated energy use savings of 43% for luminaire-level lighting controls compared to manual controls in open offices. 
 
 In addition to sensing the zone conditions and controlling the attached HVAC system, smart thermostats are connected to the internet, contain advanced control algorithms, and can connect to home automation systems. These features allow smart thermostats to perform more advanced controls for relatively simple HVAC systems. Smart thermostats are best suited for residential buildings and small commercial buildings where they can serve as a less complicated alternative to smart home energy management systems and building automation systems. Wang et. al. (2020) estimated that smart occupancy-driven thermostats could save between 11-34% of energy use.
 
@@ -329,10 +355,10 @@ __Table 8. High Potential GEB Technologies__
 | Architectural | Thermal Storage | 63% (heating) | - | - | - | 
 |  | Dynamic Glazing | 10-20% | 20-30% | - | - | 
 |  | Automated Attachments | - | 15-33% (cooling) | - | - | 
-| Electrical | Continuous-Operation Electronics | - | - | - | - | 
+| Electrical | Continuous-Operation Electronics | 56-58% | - | - | - | 
 | Mechanical | Separate Sensible and Latent Space Conditioning | 30-68% | - | - | - | 
-|  | Thermal Energy Storage | - | - | - | - | 
+|  | Thermal Energy Storage | 12% | - | 25-78% | - | 
 | Plumbing | Building-Scale CHP | 33% (heating) | - | - | - | 
-| Controls | Advanced Sensors and Controls (lighting) | - | - | - | - | 
+| Controls | Advanced Sensors and Controls (lighting) | 43% | - | - | - | 
 |  | Smart Thermostats | 11-34% | - | - | - | 
 |  | Water Heaters with Smart Connected Controls (electric and gas) | 95% (on-peak) | - | - | - |  
