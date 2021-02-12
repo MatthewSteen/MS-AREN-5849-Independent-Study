@@ -1,3 +1,5 @@
+# [A Review and Categorization of Grid-interactive Efficient Building Technologies for Building Performance Simulation](https://github.com/MatthewSteen/MS-CVEN-5849-Independent-Study/blob/develop/independent_study.md)
+
 __Copyright &#169; 2020 Matthew Steen__
 
 This repository contains the files for an Independent Study (CVEN 5849) that was completed with [Dr. Moncef Krarti](https://www.colorado.edu/ceae/moncef-krarti) ([@krarti](https://github.com/krarti)) as part of a Master of Science degree in [Architectural Engineering at the University of Colorado Boulder](https://www.colorado.edu/academics/programs/architectural-engineering).
@@ -7,8 +9,6 @@ A summary of the report was presented at the American Society of Mechanical Engi
 A revised version of the report was published in the ASME [Journal of Engineering for Sustainable Buildings and Cities](https://doi.org/10.1115/1.4048975) in November 2020.
 
 ---
-
-# [A Review and Categorization of Grid-interactive Efficient Building Technologies for Building Performance Simulation](https://github.com/MatthewSteen/MS-CVEN-5849-Independent-Study/blob/develop/independent_study.md)
 
 ## Abstract
 
