@@ -1,6 +1,6 @@
 __Copyright &#169; 2020 Matthew Steen__
 
-This repository contains the files for an Independent Study (CVEN 5849) that was completed with [Dr. Moncef Krarti](https://www.colorado.edu/ceae/moncef-krarti) (@krarti) as part of a Master of Science degree in [Architectural Engineering at the University of Colorado Boulder](https://www.colorado.edu/academics/programs/architectural-engineering).
+This repository contains the files for an Independent Study (CVEN 5849) that was completed with @krarti [Dr. Moncef Krarti](https://www.colorado.edu/ceae/moncef-krarti) as part of a Master of Science degree in [Architectural Engineering at the University of Colorado Boulder](https://www.colorado.edu/academics/programs/architectural-engineering).
 
 A summary of the report was presented at the American Society of Mechanical Engineers (ASME) [14th International Conference on Energy Sustainability](https://event.asme.org/ES/) on June 17, 2020.
 
