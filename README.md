@@ -8,7 +8,7 @@ A revised version of the report was published in the ASME [Journal of Engineerin
 
 ---
 
-# [A Review and Categorization of Grid-interactive Efficient Building Technologies for Building Performance Simulation](https://github.com/MatthewSteen/MS-CVEN-5849-Independent-Study/blob/develop/md/independent_study.md)
+# [A Review and Categorization of Grid-interactive Efficient Building Technologies for Building Performance Simulation](https://github.com/MatthewSteen/MS-CVEN-5849-Independent-Study/blob/develop/independent_study.md)
 
 ## Abstract
 
