@@ -8,8 +8,6 @@ A summary of the report was presented at the American Society of Mechanical Engi
 
 A revised version of the report was published in the ASME [Journal of Engineering for Sustainable Buildings and Cities](https://doi.org/10.1115/1.4048975) in November 2020.
 
----
-
 ## Abstract
 
 Buildings of the future are expected to not only be energy efficient but also able to offer grid services through implementation of demand-side management strategies by utilizing existing and new technologies that enhance electrical load flexibility. With the high penetration of variable renewables, grid operators have to balance between variable supply with controllable and adaptable demand. This article reviews the current literature on grid-interactive efficient buildings (GEBs) that can provide grid services. In particular, the review identifies categories and examples of measures and technologies that are suitable for GEBs using various criteria. These criteria include demand-side management strategies, potential to provide grid services, technology maturity, as well as ability to model the technologies to perform detailed analyses and assessments in whole-building simulation software.
